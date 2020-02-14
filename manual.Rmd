@@ -48,21 +48,22 @@ supported by both html and pdf).
 
 The site is arranged such that teaching exercise files are put the following way:
 
-- Each language are in its own folder, e.g. `sv/` is for Swedish
+- Each language is in its own folder, e.g. `sv/` is for Swedish
 
 - In there a folder for each topic contains markdown files,
-  e.g. `sv/Omraade-Energifoerluster/Ledning_laerare.md` contains one exercise
-  
+  e.g. `sv/Omraade-Energifoerluster/Ledning_GN_laerare.md` contains one exercise
+
+
 In order to add a new exercise:
 
 - Add a new markdown file in the topic folder,
-  e.g. `sv/Omraade-Energifoerluster/newexercise_leaere.md`
+  e.g. `sv/Omraade-Energifoerluster/newexercise_GN_learare.md`
   
-- To add it to the swedish page the open the `.Rmd` file in the main directory, e.g. `teachers_GN_sv.Rmd` in Rstudio:
+- To add it to the swedish page the open the `.Rmd` file in the main directory, e.g. `sv/teachers_GN.Rmd` in Rstudio:
 
     - Add a line with the link to the markdown file by copying a line with a
 	    link to the pages and change the link, as in:
-	    \'r knitr::knit_child('sv/Omraade-Energifoerluster/newexercise.md')\`
+	    \'r knitr::knit_child('sv/Omraade-Energifoerluster/newexercise_GN_laerare.md')\`
 		
     - Either simply press "knit to html" in Rstudio or run `make.R` to compile
       the site
@@ -76,7 +77,7 @@ compile with all working links:
 
 - Keep exercise files divided in folders of the different topics.
 
-- Keep the heading levels in the exercise files (see e.g. `sv/Omraade-Energifoerluster/Ledning_laerare.md`):
+- Keep the heading levels in the exercise files (see e.g. `sv/Omraade-Energifoerluster/Ledning_GN_laerare.md`):
     - `### Exercise title`
 	- `#### Subheadings`
 
@@ -93,7 +94,7 @@ compile with all working links:
 In order to edit an exercise:
 
 - Open an exercise markdown file,
-  e.g. `sv/Omraade-Energifoerluster/Ledning_laerare.md`
+  e.g. `sv/Omraade-Energifoerluster/Ledning_GN_laerare.md`
   
 - The file can be edited in any text editor. If Rstudio is used, then the
   markdown file can simply be compiled to pdf by pressing "Preview PDF"

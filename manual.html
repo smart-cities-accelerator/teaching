@@ -395,15 +395,15 @@ summary {
 <p>Actually, the site is compiled with <code>rmarkdown</code> and its possible to use the full syntax, see <a href="https://rmarkdown.rstudio.com/">rmarkdown</a> and <a href="https://rmarkdown.rstudio.com/authoring_basics.html">basics</a> (use only syntax supported by both html and pdf).</p>
 <p>The site is arranged such that teaching exercise files are put the following way:</p>
 <ul>
-<li><p>Each language are in its own folder, e.g. <code>sv/</code> is for Swedish</p></li>
-<li><p>In there a folder for each topic contains markdown files, e.g. <code>sv/Omraade-Energifoerluster/Ledning_laerare.md</code> contains one exercise</p></li>
+<li><p>Each language is in its own folder, e.g. <code>sv/</code> is for Swedish</p></li>
+<li><p>In there a folder for each topic contains markdown files, e.g. <code>sv/Omraade-Energifoerluster/Ledning_GN_laerare.md</code> contains one exercise</p></li>
 </ul>
 <p>In order to add a new exercise:</p>
 <ul>
-<li><p>Add a new markdown file in the topic folder, e.g. <code>sv/Omraade-Energifoerluster/newexercise_leaere.md</code></p></li>
-<li><p>To add it to the swedish page the open the <code>.Rmd</code> file in the main directory, e.g. <code>teachers_GN_sv.Rmd</code> in Rstudio:</p>
+<li><p>Add a new markdown file in the topic folder, e.g. <code>sv/Omraade-Energifoerluster/newexercise_GN_learare.md</code></p></li>
+<li><p>To add it to the swedish page the open the <code>.Rmd</code> file in the main directory, e.g. <code>sv/teachers_GN.Rmd</code> in Rstudio:</p>
 <ul>
-<li><p>Add a line with the link to the markdown file by copying a line with a link to the pages and change the link, as in: 'r knitr::knit_child(‘sv/Omraade-Energifoerluster/newexercise.md’)`</p></li>
+<li><p>Add a line with the link to the markdown file by copying a line with a link to the pages and change the link, as in: &#39;r knitr::knit_child(‘sv/Omraade-Energifoerluster/newexercise_GN_laerare.md’)`</p></li>
 <li><p>Either simply press “knit to html” in Rstudio or run <code>make.R</code> to compile the site</p></li>
 </ul></li>
 </ul>
@@ -413,7 +413,7 @@ summary {
 <p>There are not really any technical restrictions to how the material is organized, however the following conventions should be kept to make the site compile with all working links:</p>
 <ul>
 <li><p>Keep exercise files divided in folders of the different topics.</p></li>
-<li>Keep the heading levels in the exercise files (see e.g. <code>sv/Omraade-Energifoerluster/Ledning_laerare.md</code>):
+<li>Keep the heading levels in the exercise files (see e.g. <code>sv/Omraade-Energifoerluster/Ledning_GN_laerare.md</code>):
 <ul>
 <li><code>### Exercise title</code></li>
 <li><code>#### Subheadings</code></li>
@@ -430,7 +430,7 @@ summary {
 <h3>Editing an exercise</h3>
 <p>In order to edit an exercise:</p>
 <ul>
-<li><p>Open an exercise markdown file, e.g. <code>sv/Omraade-Energifoerluster/Ledning_laerare.md</code></p></li>
+<li><p>Open an exercise markdown file, e.g. <code>sv/Omraade-Energifoerluster/Ledning_GN_laerare.md</code></p></li>
 <li><p>The file can be edited in any text editor. If Rstudio is used, then the markdown file can simply be compiled to pdf by pressing “Preview PDF” (ctrl-shift k)</p></li>
 <li><p>Images can be added with markdown syntax, e.g. <code>![](figures/test.jpeg)</code>, or with rmarkdown syntax</p></li>
 <li><p>Its perfectly possible to write math and code chunks, see the rmarkdown documentation</p></li>
