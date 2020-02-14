@@ -10,16 +10,16 @@ render("about.Rmd")
 langs <- c("sv","da")
 pages <- character()
 for(lang in langs){
-    ## ##
+    ## ------------------------------------
     pages <- dir(lang, pattern=paste0("\\.Rmd$"), full.names=TRUE)
     ## Copy the yaml
     file.copy("website/html_output.yaml", paste0(lang,"/_output.yaml"), overwrite=TRUE)
-    ## ##
+    ## ------------------------------------
     ## Compile the joined pages
     for(page in pages){
         render(page, envir=new.env())
     }
-    ## ##
+    ## ------------------------------------
     ## Compile all the instructions to pdfs
     for(page in pages){
         x <- scan(page, what="character", sep="\n")
