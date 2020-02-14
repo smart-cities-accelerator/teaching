@@ -3,7 +3,7 @@ title: "Energieksperimenter"
 output: html_document
 ---
 
-`r elevlinks <- FALSE`
+`r studentpage <- ""`
 `r knitr::knit_child("website/header-knitr.Rmd")`
 
 Dette materiale er en række læringsøvelser, som kan kan laves med simple materialer. De er inddelt i forskellige områder. 

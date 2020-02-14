@@ -3,11 +3,14 @@ library(rmarkdown)
 ## Index
 render("index.Rmd")
 
+## Compile the manual
+render("manual.Rmd")
 
-## Compile to pdf files
-pages <- c("teachers_sv.Rmd","students_sv.Rmd",
-           "teachers_da.Rmd","students_da.Rmd")
-
+## The pages to be included, just find all ".Rmd" files containing with "teachers" or "students"
+pages <- dir(pattern="teachers.*\\.Rmd$|students.*\\.Rmd$")
+## Or specify directly
+## pages <- c("teachers_sv.Rmd","students_sv.Rmd",
+##            "teachers_da.Rmd","students_da.Rmd")
 ## Compile the joined pages
 for(page in pages){
     render(page, envir=new.env())

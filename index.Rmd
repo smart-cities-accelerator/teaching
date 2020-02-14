@@ -15,23 +15,25 @@ Her links til manual og about
 
 ## Svensk {.tabset .tabset-fade}
 
-### level 1
+### Klassetrin 7. til 9. klasse
 
-- [Lærervejledninger level 1](teachers_sv.html)
+- [Lærervejledninger](sv_teachers_7.html)
 
-- [Elevvejledninger level 1](students_sv.html)
+- [Elevvejledninger](sv_students_7.html)
 
-### level 2
+### Klassetrin Gymnasiet
 
-...
+- [Lærervejledninger](sv_teachers_GN.html)
+
+- [Elevvejledninger](sv_students_GN.html)
+
 
 
 ## Dansk {.tabset .tabset-fade}
 
 ### level 1
 
-- [Lærervejledninger level 1](teachers_sv.html)
+- [Lærervejledninger](da_teachers.html)
 
-- [Elevvejledninger level 1](students_sv.html)
+- [Elevvejledninger](da_students.html)
 
-### level 2

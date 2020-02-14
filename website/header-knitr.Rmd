@@ -10,15 +10,14 @@ knitr::knit_hooks$set(inline = function(x) {
     pdfpath <- sub("\\.[^\\.]*$", ".pdf", path)
     link <- paste0("[pdf](",pdfpath,")")
     ## Maybe add link to elever:
-    if(!is.null(elevlinks)){
-        if(elevlinks){
-            ## Insert a link to the elev page
+    if(!is.null(studentpage)){
+        if(nchar(studentpage) > 0){
+            ## Insert a link to the student page
             tmp <- strsplit(strsplit(x, "\n### ")[[1]][2], "\n\n")[[1]][1]
             if(!is.na(tmp)){
                 tmp <- gsub(" +", "-", tolower(tmp))
                 ## Find the lanuage code
-                lang <- strsplit(strsplit(code, "'")[[1]][2], "/")[[1]][1]
-                link <- paste0(link," and ","[students](students_",lang,".html#",tmp,")")
+                link <- paste0(link," and ","[students](",studentpage,"#",tmp,")")
             }
         }
     }
