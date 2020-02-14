@@ -1,10 +1,13 @@
 library(rmarkdown)
 
-## Index
+## Compile
 render("index.Rmd")
-
-## Compile the manual
+render("sv_index.Rmd")
+render("da_index.Rmd")
 render("manual.Rmd")
+render("about.Rmd")
+
+
 
 ## The pages to be included, just find all ".Rmd" files containing with "teachers" or "students"
 pages <- dir(pattern="teachers.*\\.Rmd$|students.*\\.Rmd$")

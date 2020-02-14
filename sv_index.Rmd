@@ -1,0 +1,39 @@
+---
+title: "Energieksperimenter"
+output: html_document
+---
+
+<head>
+    <base target="_blank">
+</head>
+
+# Intro
+
+Her links til manual og about
+
+# Læringsmateriale {.tabset .tabset-fade}
+
+## Svensk {.tabset .tabset-fade}
+
+### Klassetrin 7. til 9. klasse
+
+- [Lærervejledninger](sv_teachers_7.html)
+
+- [Elevvejledninger](sv_students_7.html)
+
+### Klassetrin Gymnasiet
+
+- [Lærervejledninger](sv_teachers_GN.html)
+
+- [Elevvejledninger](sv_students_GN.html)
+
+
+
+## Dansk {.tabset .tabset-fade}
+
+### level 1
+
+- [Lærervejledninger](da_teachers.html)
+
+- [Elevvejledninger](da_students.html)
+

@@ -1,0 +1,16 @@
+---
+title: "Smart cities accelerator teaching material"
+output: html_document
+---
+
+### Ressources
+
+- [Manual]{manual.html}
+
+- [About]{about.html}
+
+### Languages {.tabset .tabset-fade}
+
+- [Svenska](sv_index.html)
+
+- [Dansk](da_index.html)
