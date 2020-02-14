@@ -1,0 +1,37 @@
+---
+title: "Energieksperimenter"
+output: html_document
+---
+
+<head>
+    <base target="_blank">
+</head>
+
+# Intro
+
+Her links til manual og about
+
+# Læringsmateriale {.tabset .tabset-fade}
+
+## Svensk {.tabset .tabset-fade}
+
+### level 1
+
+- [Lærervejledninger level 1](teachers_sv.html)
+
+- [Elevvejledninger level 1](students_sv.html)
+
+### level 2
+
+...
+
+
+## Dansk {.tabset .tabset-fade}
+
+### level 1
+
+- [Lærervejledninger level 1](teachers_sv.html)
+
+- [Elevvejledninger level 1](students_sv.html)
+
+### level 2

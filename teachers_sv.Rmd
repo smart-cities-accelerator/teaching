@@ -1,0 +1,22 @@
+---
+title: "Energieksperimenter"
+output: html_document
+---
+
+`r elevlinks <- TRUE`
+`r knitr::knit_child("website/header-knitr.Rmd")`
+
+Dette materiale er en række læringsøvelser, som kan kan laves med simple materialer. De er inddelt i forskellige områder. 
+
+# Områder {.tabset .tabset-fade}
+
+## Energiförluster {.tabset .tabset-fade}
+
+`r knitr::knit_child('sv/Omraade-Energifoerluster/Konvektion_laerare.md')`
+`r knitr::knit_child('sv/Omraade-Energifoerluster/Ledning_laerare.md')`
+
+
+## Energikällor {.tabset .tabset-fade}
+
+`r knitr::knit_child('sv/Omraade-Energikaellor/Solceller_laerare.md')`
+`r knitr::knit_child('sv/Omraade-Energikaellor/Generator_7GN_laerare.md')`

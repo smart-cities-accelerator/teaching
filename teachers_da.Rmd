@@ -1,0 +1,16 @@
+---
+title: "Energieksperimenter"
+output: html_document
+---
+
+`r elevlinks <- TRUE`
+`r knitr::knit_child("website/header-knitr.Rmd")`
+
+Dette materiale er en række læringsøvelser, som kan kan laves med simple materialer. De er inddelt i forskellige områder. 
+
+# Områder {.tabset .tabset-fade}
+
+## Energitab {.tabset .tabset-fade}
+
+`r knitr::knit_child('da/Omraade-Energitab/Ledning_laerere.md')`
+`r knitr::knit_child('da/Omraade-Energitab/Konvektion_laerere.md')`

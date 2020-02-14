@@ -1,0 +1,29 @@
+```{r initsetup, cache=FALSE, echo=FALSE}
+hook_old <- knitr::knit_hooks$get("inline")  # save the old hook
+knitr::knit_hooks$set(inline = function(x) {
+    ## Find the child path
+    code <- parent.frame()$block$code[parent.frame()$i]
+    path <- sub("').*", "", sub("knitr\\:\\:knit_child\\('", "", code))
+    ##
+    x <- gsub("\\(figures/",paste0("\\(",dirname(path),"/figures/"), x)
+    ## Add link to pdf: (sub() replaces only first instance)
+    pdfpath <- sub("\\.[^\\.]*$", ".pdf", path)
+    link <- paste0("[pdf](",pdfpath,")")
+    ## Maybe add link to elever:
+    if(!is.null(elevlinks)){
+        if(elevlinks){
+            ## Insert a link to the elev page
+            tmp <- strsplit(strsplit(x, "\n### ")[[1]][2], "\n\n")[[1]][1]
+            if(!is.na(tmp)){
+                tmp <- gsub(" +", "-", tolower(tmp))
+                ## Find the lanuage code
+                lang <- strsplit(strsplit(code, "'")[[1]][2], "/")[[1]][1]
+                link <- paste0(link," and ","[students](students_",lang,".html#",tmp,")")
+            }
+        }
+    }
+    x <- sub("####",paste0("<div style='text-align: right'><span style='font-size:small;'>(links: ",link,")</span></div>\n\n####"), x)
+    ## Run it
+    hook_old(x)
+})
+```
