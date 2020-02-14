@@ -4,9 +4,9 @@ output: html_document
 ---
 
 
-# [Svenska](sv_index.html)
+# [Svenska](sv/index.html)
 
-# [Dansk](da_index.html)
+# [Dansk](da/index.html)
 
 
 ### Ressources

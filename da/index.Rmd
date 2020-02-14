@@ -1,0 +1,10 @@
+---
+title: "Energieksperimenter"
+output: html_document
+---
+
+# Læringsmateriale
+
+- [Lærervejledninger](teachers_7.html)
+
+- [Elevvejledninger](students_7.html)

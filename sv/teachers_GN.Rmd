@@ -3,8 +3,8 @@ title: "Energieksperimenter"
 output: html_document
 ---
 
-`r studentpage <- ""`
-`r knitr::knit_child("website/header-knitr.Rmd")`
+`r studentpage <- "students_GN.html"`
+`r knitr::knit_child("../website/header-knitr.Rmd")`
 
 Dette materiale er en række læringsøvelser, som kan kan laves med simple materialer. De er inddelt i forskellige områder. 
 
@@ -12,10 +12,11 @@ Dette materiale er en række læringsøvelser, som kan kan laves med simple mate
 
 ## Energiförluster {.tabset .tabset-fade}
 
-`r knitr::knit_child('sv/Omraade-Energifoerluster/Konvektion_GN_elever.md')`
-`r knitr::knit_child('sv/Omraade-Energifoerluster/Ledning_GN_elever.md')`
+`r knitr::knit_child('Omraade-Energifoerluster/Konvektion_GN_laerare.md')`
+`r knitr::knit_child('Omraade-Energifoerluster/Ledning_GN_laerare.md')`
 
 
 ## Energikällor {.tabset .tabset-fade}
 
-`r knitr::knit_child('sv/Omraade-Energikaellor/Solceller_GN_elever.md')`
+`r knitr::knit_child('Omraade-Energikaellor/Solceller_GN_laerare.md')`
+

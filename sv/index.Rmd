@@ -1,0 +1,18 @@
+---
+title: "Energieksperimenter"
+output: html_document
+---
+
+# Læringsmateriale {.tabset .tabset-fade}
+
+## Klassetrin 7. til 9. klasse
+
+- [Lærervejledninger](teachers_7.html)
+
+- [Elevvejledninger](students_7.html)
+
+## Klassetrin Gymnasiet
+
+- [Lærervejledninger](teachers_GN.html)
+
+- [Elevvejledninger](students_GN.html)

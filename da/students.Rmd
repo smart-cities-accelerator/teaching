@@ -4,7 +4,7 @@ output: html_document
 ---
 
 `r studentpage <- ""`
-`r knitr::knit_child("website/header-knitr.Rmd")`
+`r knitr::knit_child("../website/header-knitr.Rmd")`
 
 Dette materiale er en række læringsøvelser, som kan kan laves med simple materialer. De er inddelt i forskellige områder. 
 
@@ -12,5 +12,5 @@ Dette materiale er en række læringsøvelser, som kan kan laves med simple mate
 
 ## Energitab {.tabset .tabset-fade}
 
-`r knitr::knit_child('da/Omraade-Energitab/Konvektion_elever.md')`
-`r knitr::knit_child('da/Omraade-Energitab/Ledning_elever.md')`
+`r knitr::knit_child('Omraade-Energitab/Konvektion_elever.md')`
+`r knitr::knit_child('Omraade-Energitab/Ledning_elever.md')`
