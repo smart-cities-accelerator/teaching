@@ -9,7 +9,7 @@ output: html_document
 # [Dansk](da/index.html)
 
 
-### Ressources
+### Resources
 
 #### [Manual](manual.html)
 
