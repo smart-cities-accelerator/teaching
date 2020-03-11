@@ -1,18 +1,18 @@
 ---
-title: "Energieksperimenter"
+title: "Energiexperiment"
 output: html_document
 ---
 
-# Læringsmateriale {.tabset .tabset-fade}
+# Läromaterial {.tabset .tabset-fade}
 
-## Klassetrin 7. til 9. klasse
+## Årskurs 7 till 9
 
-- [Lærervejledninger](teachers_7.html)
+- [Lärarinstruktion](teachers_7.html)
 
-- [Elevvejledninger](students_7.html)
+- [Elevinstruktion](students_7.html)
 
-## Klassetrin Gymnasiet
+##  Gymnasiet
 
-- [Lærervejledninger](teachers_GN.html)
+- [Lärarinstruktion](teachers_GN.html)
 
-- [Elevvejledninger](students_GN.html)
+- [Elevinstruktion](students_GN.html)
