@@ -1,5 +1,5 @@
 ---
-title: "Energiexperiment"
+title: "Energiexperimenter"
 output: html_document
 ---
 
