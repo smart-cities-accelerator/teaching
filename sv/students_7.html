@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -84,7 +84,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -146,6 +145,7 @@ summary {
   border: none;
   display: inline-block;
   border-radius: 4px;
+  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -157,18 +157,6 @@ summary {
   display: none;
 }
 </style>
-
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
 
 <!-- code folding -->
 
@@ -195,25 +183,18 @@ $(document).ready(function () {
 </div>
 
 
-<<<<<<< HEAD
-<p>Dette materiale er en række læringsøvelser, som kan kan laves med simple materialer. De er inddelt i forskellige områder.</p>
+<p>Detta material är en följd av övningar och är indelat i olika områden. Område väljs från översta nivån av flikar. Övning väljs från nästa nivå av flikar.</p>
 <hr />
 <div id="section" class="section level1 tabset tabset-fade">
 <h1></h1>
 <div id="energiförluster" class="section level2 tabset tabset-fade">
-=======
-<p>Detta material är en följd av övningar och är indelat i olika områden. Område väljs från översta nivån av flikar. Övning väljs från nästa nivå av flikar.</p>
-<div id="omraden" class="section level1 tabset tabset-fade">
-<h1>Områden</h1>
-<div id="energiforluster" class="section level2 tabset tabset-fade">
->>>>>>> 93ef5618b527bcb2a66c444ceb8faae8f69e9518
 <h2>Energiförluster</h2>
 <div id="luften-flyttar-energi" class="section level3">
 <h3>Luften flyttar energi</h3>
 <div style="text-align: right">
 <span style="font-size:small;">(links: <a href="Område-Energiförluster/Konvektion_7GN.pdf">pdf</a>)</span>
 </div>
-<div id="fragestallningar" class="section level4">
+<div id="frågeställningar" class="section level4">
 <h4>Frågeställningar</h4>
 <p>Hur flyttas energi med hjälp av luft?</p>
 </div>
@@ -229,7 +210,7 @@ $(document).ready(function () {
 
 • Placera t.ex. fransat silkespapper i mitten av ringen en bit ovanför ljusen och observera vad som händer. Se upp det är varmt!</code></pre>
 </div>
-<div id="uppfoljning." class="section level4">
+<div id="uppföljning." class="section level4">
 <h4>Uppföljning.</h4>
 <pre><code>• Hur tolkar du förändringen hos värmeljusen?
 
@@ -241,20 +222,20 @@ $(document).ready(function () {
 <div style="text-align: right">
 <span style="font-size:small;">(links: <a href="Område-Energiförluster/Ledning_7_elever.pdf">pdf</a>)</span>
 </div>
-<div id="fragestallningar-1" class="section level4">
+<div id="frågeställningar-1" class="section level4">
 <h4>Frågeställningar</h4>
 <p>elever</p>
 </div>
 </div>
 </div>
-<div id="energikallor" class="section level2 tabset tabset-fade">
+<div id="energikällor" class="section level2 tabset tabset-fade">
 <h2>Energikällor</h2>
 <div id="solceller" class="section level3">
 <h3>﻿Solceller</h3>
 <div style="text-align: right">
 <span style="font-size:small;">(links: <a href="Område-Energikällor/Solceller_7_elever.pdf">pdf</a>)</span>
 </div>
-<div id="fragestallning" class="section level4">
+<div id="frågeställning" class="section level4">
 <h4>Frågeställning</h4>
 <p>Vilka faktorer styr effekten som kan erhållas från en solcell?</p>
 </div>
@@ -278,7 +259,7 @@ $(document).ready(function () {
 <li><p>Även om solcellen är direkt riktad mot solen så blir effekten från solen mindre ju lägre solen står: Varför är det så? Jordens atmosfär är överdriven i bilden.</p></li>
 </ol>
 </div>
-<div id="uppfoljning" class="section level4">
+<div id="uppföljning" class="section level4">
 <h4>Uppföljning</h4>
 <ul>
 <li><p>Vilka faktorer är viktiga vid användning av solceller för att få största möjliga effekt? Mängden ljus, vinkeln mot solen, mängden absorption i atmosfären. Att solcellens yta är ren. Jämn belysning.</p></li>
@@ -310,6 +291,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

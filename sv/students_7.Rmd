@@ -1,21 +1,23 @@
 ---
-title: "Energieksperimenter"
+title: "Energiexperiment"
 output: html_document
 ---
 
 `r studentpage <- ""`
 `r knitr::knit_child("../website/header-knitr.Rmd")`
 
-Dette materiale er en række læringsøvelser, som kan kan laves med simple materialer. De er inddelt i forskellige områder. 
+Detta material är en följd av övningar och är indelat i olika områden. Område väljs från översta nivån av flikar. Övning väljs från nästa nivå av flikar. 
 
-# Områden {.tabset .tabset-fade}
+***
+
+# {.tabset .tabset-fade}
 
 ## Energiförluster {.tabset .tabset-fade}
 
-`r knitr::knit_child('Omraade-Energifoerluster/Konvektion_7_elever.md')`
-`r knitr::knit_child('Omraade-Energifoerluster/Ledning_7_elever.md')`
+`r knitr::knit_child('Område-Energiförluster/Konvektion_7GN.md')`
+`r knitr::knit_child('Område-Energiförluster/Ledning_7_elever.md')`
 
 
 ## Energikällor {.tabset .tabset-fade}
 
-`r knitr::knit_child('Omraade-Energikaellor/Solceller_7_elever.md')`
+`r knitr::knit_child('Område-Energikällor/Solceller_7_elever.md')`

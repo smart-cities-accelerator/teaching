@@ -6,7 +6,7 @@ output: html_document
 `r studentpage <- "students_GN.html"`
 `r knitr::knit_child("../website/header-knitr.Rmd")`
 
-Dette materiale er en række læringsøvelser, som kan kan laves med simple materialer. De er inddelt i forskellige områder. 
+Detta material är en följd av övningar och är indelat i olika områden. Område väljs från översta nivån av flikar. Övning väljs från nästa nivå av flikar. 
 
 ***
 
@@ -14,11 +14,11 @@ Dette materiale er en række læringsøvelser, som kan kan laves med simple mate
 
 ## Energiförluster {.tabset .tabset-fade}
 
-`r knitr::knit_child('Omraade-Energifoerluster/Konvektion_GN_laerare.md')`
-`r knitr::knit_child('Omraade-Energifoerluster/Ledning_GN_laerare.md')`
+`r knitr::knit_child('Område-Energiförluster/Konvektion_GN_laerare.md')`
+`r knitr::knit_child('Område-Energiförluster/Ledning_GN_laerare.md')`
 
 
 ## Energikällor {.tabset .tabset-fade}
 
-`r knitr::knit_child('Omraade-Energikaellor/Solceller_GN_laerare.md')`
+`r knitr::knit_child('Område-Energikällor/Solceller_GN_laerare.md')`
 
