@@ -10,6 +10,10 @@ output: html_document
 
 # [Vælg Dansk](da/index.html)
 
+<<<<<<< HEAD
+=======
+### Resources
+>>>>>>> 93ef5618b527bcb2a66c444ceb8faae8f69e9518
 
 <p style="margin-top: 2cm"></p>
 
