@@ -1,0 +1,8 @@
+---
+title: "Smart cities accelerator teaching material"
+output: html_document
+---
+
+
+
+Illustrationer af [www.sketchybanana.dk](www.sketchybanana.dk).

@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Smart-cities-accelerator teaching site</title>
+
+<script src="manual_files/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="manual_files/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<script src="manual_files/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="manual_files/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="manual_files/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="manual_files/navigation-1.1/tabsets.js"></script>
+<link href="manual_files/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="manual_files/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+<link rel="stylesheet" href="../website/html_style.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+</style>
+
+
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+<img src="../website/figures_html/climate-KIC-header-2.png">
+
+<div class="fluid-row" id="header">
+
+
+
+<h1 class="title toc-ignore">Smart-cities-accelerator teaching site</h1>
+
+</div>
+
+
+<p>This manual contains instructions for how to make new teaching material and add it to the site.</p>
+<hr />
+<div id="section" class="section level1 tabset tabset-fade">
+<h1></h1>
+<div id="manage-the-site" class="section level2 tabset tabset-fade">
+<h2>Manage the site</h2>
+<div id="clone-from-github" class="section level3">
+<h3>Clone from github</h3>
+<p>The git repository can be cloned by</p>
+<pre><code>git clone https://github.com/smart-cities-accelerator/teaching.git</code></pre>
+<p>which will download all the files into the directory “teaching”</p>
+</div>
+<div id="compile-the-site" class="section level3">
+<h3>Compile the site</h3>
+<p>In order to compile the site, first download and install two programs:</p>
+<ul>
+<li><p>R: <a href="https://www.r-project.org/" class="uri">https://www.r-project.org/</a></p></li>
+<li><p>Rstudio Desktop the free version: <a href="https://rstudio.com/products/rstudio/download/" class="uri">https://rstudio.com/products/rstudio/download/</a></p></li>
+</ul>
+<p>After installing both the entire site can be compiled by running the R script in “teaching/make.R”. So open it in Rstudio and mark all with “ctrl-a” and then run the it with “ctrl-enter”.</p>
+</div>
+</div>
+<div id="add-new-material" class="section level2 tabset tabset-fade">
+<h2>Add new material</h2>
+<div id="add-a-new-teaching-exercise" class="section level3">
+<h3>Add a new teaching exercise</h3>
+<p>The teaching exercises are written in markdown, see for example <a href="https://www.markdownguide.org/getting-started/">markdown</a> and <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet">cheatsheet</a></p>
+<p>Actually, the site is compiled with <code>rmarkdown</code> and its possible to use the full syntax, see <a href="https://rmarkdown.rstudio.com/">rmarkdown</a> and <a href="https://rmarkdown.rstudio.com/authoring_basics.html">basics</a> (use only syntax supported by both html and pdf).</p>
+<p>The site is arranged such that teaching exercise files are put the following way:</p>
+<ul>
+<li><p>Each language is in its own folder, e.g. <code>sv/</code> is for Swedish</p></li>
+<li><p>In there a folder for each topic contains markdown files, e.g. <code>sv/Omraade-Energifoerluster/Ledning_GN_laerare.md</code> contains one exercise</p></li>
+</ul>
+<p>In order to add a new exercise:</p>
+<ul>
+<li><p>Add a new markdown file in the topic folder, e.g. <code>sv/Omraade-Energifoerluster/newexercise_GN_learare.md</code></p></li>
+<li><p>To add it to the swedish page the open the <code>.Rmd</code> file in the main directory, e.g. <code>sv/teachers_GN.Rmd</code> in Rstudio:</p>
+<ul>
+<li><p>Add a line with the link to the markdown file by copying a line with a link to the pages and change the link, as in: 'r knitr::knit_child(‘sv/Omraade-Energifoerluster/newexercise_GN_laerare.md’)`</p></li>
+<li><p>Either simply press “knit to html” in Rstudio or run <code>make.R</code> to compile the site</p></li>
+</ul></li>
+</ul>
+</div>
+<div id="site-organization" class="section level3">
+<h3>Site organization</h3>
+<p>There are not really any technical restrictions to how the material is organized, however the following conventions should be kept to make the site compile with all working links:</p>
+<ul>
+<li><p>Keep exercise files divided in folders of the different topics.</p></li>
+<li>Keep the heading levels in the exercise files (see e.g. <code>sv/Omraade-Energifoerluster/Ledning_GN_laerare.md</code>):
+<ul>
+<li><code>### Exercise title</code></li>
+<li><code>#### Subheadings</code></li>
+</ul></li>
+<li>Keep the following file naming conventions (replace <code>teacher</code>/<code>student</code> with similar name in the language and <code>level</code> with the different level names:
+<ul>
+<li><code>exercisename_level_teacher.md</code> for teachers instructions</li>
+<li><code>exercisename_level_student.md</code> for students instructions</li>
+</ul></li>
+<li><p>Use only ASCII characters in file names (not æøå etc.)</p></li>
+</ul>
+</div>
+<div id="editing-an-exercise" class="section level3">
+<h3>Editing an exercise</h3>
+<p>In order to edit an exercise:</p>
+<ul>
+<li><p>Open an exercise markdown file, e.g. <code>sv/Omraade-Energifoerluster/Ledning_GN_laerare.md</code></p></li>
+<li><p>The file can be edited in any text editor. If Rstudio is used, then the markdown file can simply be compiled to pdf by pressing “Preview PDF” (ctrl-shift k)</p></li>
+<li><p>Images can be added with markdown syntax, e.g. <code>![](figures/test.jpeg)</code>, or with rmarkdown syntax</p></li>
+<li><p>Its perfectly possible to write math and code chunks, see the rmarkdown documentation</p></li>
+</ul>
+</div>
+</div>
+</div>
+
+<br><br><img src="../website/figures_html/climate-KIC-footer-2.png"> <!-- style="transform:rotate(180deg);"> -->
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

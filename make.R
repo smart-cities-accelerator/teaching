@@ -1,11 +1,15 @@
 library(rmarkdown)
 
+## ----------------------------------------------------------------
 ## Compile main pages
 render("index.Rmd")
-render("manual.Rmd")
-render("about.Rmd")
+file.copy("website/html_output.yaml", paste0("info/_output.yaml"), overwrite=TRUE)
+render("info/manual.Rmd", envir=new.env())
+render("info/about.Rmd", envir=new.env())
+## ----------------------------------------------------------------
 
 
+## ----------------------------------------------------------------
 ## The pages to be included, just find all ".Rmd" files containing with "teachers" or "students"
 langs <- c("sv","da")
 pages <- character()
@@ -41,6 +45,19 @@ for(lang in langs){
         }
     }
 }
+## ----------------------------------------------------------------
+
+
+## ----------------------------------------------------------------
+## MISC
+## 
+## ## Check a pdf
+## ## Compile the pdf file
+## lang <- "sv"
+## page <- "teachers_GN.Rmd"
+## file <- "sv/Omraade-Energikaellor/Solceller_GN_laerare.md"
+## ## Run above
+## system("evince sv/Omraade-Energikaellor/Solceller_GN_laerare.pdf &")
 
 ## Publish
 ## system("git add -A")

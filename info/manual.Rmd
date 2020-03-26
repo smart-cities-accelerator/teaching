@@ -1,0 +1,107 @@
+---
+title: "Smart-cities-accelerator teaching site"
+output: html_document
+---
+
+This manual contains instructions for how to make new teaching material and add
+it to the site.
+
+***
+
+# {.tabset .tabset-fade}
+
+## Manage the site {.tabset .tabset-fade}
+
+### Clone from github
+
+The git repository can be cloned by
+
+    git clone https://github.com/smart-cities-accelerator/teaching.git
+
+which will download all the files into the directory "teaching"
+
+
+### Compile the site
+
+In order to compile the site, first download and install two programs:
+
+- R: https://www.r-project.org/
+
+- Rstudio Desktop the free version: https://rstudio.com/products/rstudio/download/
+
+After installing both the entire site can be compiled by running the R script in
+"teaching/make.R". So open it in Rstudio and mark all with "ctrl-a" and then run
+the it with "ctrl-enter".
+
+
+## Add new material {.tabset .tabset-fade}
+
+### Add a new teaching exercise
+
+The teaching exercises are written in markdown, see for example
+[markdown](https://www.markdownguide.org/getting-started/) and [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+Actually, the site is compiled with `rmarkdown` and its possible to use the full
+syntax, see [rmarkdown](https://rmarkdown.rstudio.com/) and
+[basics](https://rmarkdown.rstudio.com/authoring_basics.html) (use only syntax
+supported by both html and pdf).
+
+The site is arranged such that teaching exercise files are put the following way:
+
+- Each language is in its own folder, e.g. `sv/` is for Swedish
+
+- In there a folder for each topic contains markdown files,
+  e.g. `sv/Omraade-Energifoerluster/Ledning_GN_laerare.md` contains one exercise
+
+
+In order to add a new exercise:
+
+- Add a new markdown file in the topic folder,
+  e.g. `sv/Omraade-Energifoerluster/newexercise_GN_learare.md`
+  
+- To add it to the swedish page the open the `.Rmd` file in the main directory, e.g. `sv/teachers_GN.Rmd` in Rstudio:
+
+    - Add a line with the link to the markdown file by copying a line with a
+	    link to the pages and change the link, as in:
+	    \'r knitr::knit_child('sv/Omraade-Energifoerluster/newexercise_GN_laerare.md')\`
+		
+    - Either simply press "knit to html" in Rstudio or run `make.R` to compile
+      the site
+
+
+### Site organization
+
+There are not really any technical restrictions to how the material is
+organized, however the following conventions should be kept to make the site
+compile with all working links:
+
+- Keep exercise files divided in folders of the different topics.
+
+- Keep the heading levels in the exercise files (see e.g. `sv/Omraade-Energifoerluster/Ledning_GN_laerare.md`):
+    - `### Exercise title`
+	- `#### Subheadings`
+
+- Keep the following file naming conventions (replace `teacher`/`student` with
+  similar name in the language and `level` with the different level names:
+    - `exercisename_level_teacher.md` for teachers instructions
+    - `exercisename_level_student.md` for students instructions
+
+- Use only ASCII characters in file names (not æøå etc.)
+
+
+### Editing an exercise
+
+In order to edit an exercise:
+
+- Open an exercise markdown file,
+  e.g. `sv/Omraade-Energifoerluster/Ledning_GN_laerare.md`
+  
+- The file can be edited in any text editor. If Rstudio is used, then the
+  markdown file can simply be compiled to pdf by pressing "Preview PDF"
+  (ctrl-shift k)
+  
+- Images can be added with markdown syntax, e.g. `![](figures/test.jpeg)`, or
+  with rmarkdown syntax
+  
+- Its perfectly possible to write math and code chunks, see the rmarkdown
+  documentation

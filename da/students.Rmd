@@ -8,7 +8,9 @@ output: html_document
 
 Dette materiale er en række læringsøvelser, som kan kan laves med simple materialer. De er inddelt i forskellige områder. 
 
-# Områder {.tabset .tabset-fade}
+***
+
+# {.tabset .tabset-fade}
 
 ## Energitab {.tabset .tabset-fade}
 

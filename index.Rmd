@@ -3,14 +3,18 @@ title: "Smart cities accelerator teaching"
 output: html_document
 ---
 
-
-# [Svenska](sv/index.html)
-
-# [Dansk](da/index.html)
+<p style="margin-top: 1cm"></p>
 
 
-### Ressources
+# [Välj Svenska](sv/index.html)
 
-#### [Manual](manual.html)
+# [Vælg Dansk](da/index.html)
 
-#### [About](about.html)
+
+<p style="margin-top: 2cm"></p>
+
+### Flere ressourcer:
+
+### [Manual](info/manual.html)
+
+### [About](info/about.html)

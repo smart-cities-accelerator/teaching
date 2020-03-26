@@ -1,0 +1,11 @@
+html_document:
+  include:
+    after_body: ../website/html_footer.html
+    before_body: ../website/html_header.html
+  css: ../website/html_style.css
+  self_contained: false
+  # toc: yes
+  # toc_depth: 3
+  # toc_float:
+  #   collapsed: false
+  #   smooth_scroll: true
