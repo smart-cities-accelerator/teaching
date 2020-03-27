@@ -16,7 +16,7 @@ Detta material är en följd av övningar och är indelat i olika områden. Omr�
 
 `r knitr::knit_child('Område-Energiförluster/Konvektion_7GN.md')`
 `r knitr::knit_child('Område-Energiförluster/Ledning_7_elever.md')`
-
+`r knitr::knit_child('Område-Energiförluster/Strålning_9.Rmd')`
 
 ## Energikällor {.tabset .tabset-fade}
 
