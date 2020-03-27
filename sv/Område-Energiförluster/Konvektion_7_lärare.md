@@ -30,6 +30,6 @@ Hur flyttas energi med hjälp av luft?
 
 #### Resultatet bör se ut som på bilden nedan.
 
-![](figures/test.jpeg)
+![](figures/test.jpg)
 
 Lågorna är riktade in mot mitten av cirkeln. Detta orsakas av att luften strömmar på grund av upphettningen. Silkespapperet kommer att fladdra pga luftströmmen.
