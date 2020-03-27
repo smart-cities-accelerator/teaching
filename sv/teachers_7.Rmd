@@ -14,7 +14,7 @@ Detta material är en följd av övningar och är indelat i olika områden. Omr�
 
 ## Energiförluster {.tabset .tabset-fade}
 
-`r knitr::knit_child('Område-Energiförluster/Konvektion_7_laerare.md')`
+`r knitr::knit_child('Område-Energiförluster/Konvektion_7_lärare.md')`
 `r knitr::knit_child('Område-Energiförluster/Ledning_7_laerare.md')`
 
 
