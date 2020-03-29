@@ -28,4 +28,4 @@ Fransat silkespapper eller liknande för att detektera luftström.
 
     • Hur tolkar du förändringen hos värmeljusen?
 
-    • Vad händer med det fransade silkespapperet? Hur tolkar du det?
+    • Vad händer med det  fransade silkespapperet? Hur tolkar du det?
