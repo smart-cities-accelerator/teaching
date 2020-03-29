@@ -11,6 +11,7 @@ Hur flyttas energi med hjälp av luft?
 
 - Fransat silkespapper eller liknande för att detektera luftström.
 
+![](figures/ljus.jpg)
 
 #### Experiment
 
