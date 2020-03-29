@@ -22,7 +22,7 @@ Med hjälp av en IR-kamera kan vi detektera den infraröda strålningen från f�
 Eftersom vi inte kan se ’IR-färgerna’ ändrar IR-kameran dem till för oss synliga färger, en slags kod. I regel väljer kameran ljusare färger för högre temperaturer, se bilden av katten. Ibland ändrar kameran sin skala beroende på hur stora skillnader i temperatur det är i bilden; då stannar den en stund och kalibrerar om skalan. Temperaturen som anges av kameran gäller för bildens mitt. Kameran har 2 linser så den tar en vanlig bild i det synliga området, letar upp kanter i den bilden och lägger sedan kanterna på IR-bilden; detta för att du lättare ska kunna hitta föremålen. 
 
 
-#### Experiment
+####  Experiment
 
 Till följande experiment används en IR-kamera.
 
