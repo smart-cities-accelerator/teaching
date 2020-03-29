@@ -1,0 +1,48 @@
+---
+title: "Untitled"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+### Eleven i kammaren
+
+
+#### Frågeställning
+
+Hur tror du att temperaturen i ett rum påverkas av att det finns människor i rummet?
+Hur påverkas människokroppens temperatur av att det är hög temperatur i rummet?
+
+#### Materiel
+
+1 kammare på ungefär 1 kubikmeter: stor låda, bås, toalett eller städskrubb.
+1 digital termometer som mäter temperaturen i kammaren. T.ex. kan en digital termometer för inne- och utetemperatur användas.
+1 termometer för kroppsbruk(kontakt), eller termometer som inte kräver kroppskontakt. Med IR-kamera mäts temperaturen vid ögonkanten mot näsan.
+
+Vid användning av låda. Ställ lådan på golvet på ett sådant sätt att lådan har väggar och tak. Skär ut längs två kanter på en kortsida så att den uppkomna luckan kan fällas upp och man  kan krypa in i lådan, och fälla ner luckan och stänga.
+
+
+
+#### Experiment
+
+I stället för att direkt mäta i ett klassrum med elever mäter vi i ett litet rum, en kammare, och med endast en människa. Försök sedan dra slutsatser om vad som händer i ett helt klassrum med elever.
+
+    • Avläs temperaturen i kammaren. Mät personens temperatur.
+
+    • Låt en person sätta sig inne i kammaren. Studera temperaturökningen i kammaren; sitt inte så länge att luften känns obehaglig. Anteckna temperaturökning och tid som personen varit i kammaren. Mät personens temperatur.
+
+    • Vädra ut kammaren så temperaturen sjunker tillbaka till rumstemperaturen. Väggarna måste också få lite tid på sig.
+
+    • Upprepa laborationen igen, men låt personen, samma som tidigare, hoppa hopprep, göra armhävningar eller springa upp och ner i en trappa innan personen placerar sig i kammaren igen. Mät som tidigare.
+Uppföljning
+
+    • Vilken temperatur (cirka) har din kropp? Vid vila och vid ansträngning (t.ex. hopprep)? (IR-kameran kanske inte ger korrekt temperatur men den mäter ändringar korrekt.)
+
+    • Varifrån kommer energin som ökar temperaturen i luften i lådan? Vad hade hänt med temperaturen om du placerat ett värmeljus i lådan i stället för din kropp? Vad förbränner lågan, vad förbränner din kropp?
+
+    • Vad händer med temperaturen i ett rum med volymen 200 kubikmeter fyllt med 30 människor (ett vanligt klassrum)?
+
+    • Hur kan din kropp hålla sin temperatur konstant fastän temperaturen hos luften i klimatkammaren inte är konstant?
