@@ -7,6 +7,12 @@ output:
 
 ### Energin strålar bort
 
+![](figures/Termografia_katt.jpg)
+Termografia_katt.jpg
+
+
+![](figures/irhome.jpg)
+
 
 
 Föremål med hög temperatur lyser: järn i en smältugn lyser rött, solen är 6000 °C på ’ytan’ och lyser vitt för våra ögon.
