@@ -6,6 +6,7 @@
 
 Hur flyttas energi med hjälp av luft?
 
+![](figures/ljusring.jpg)
 
 #### Material
 
