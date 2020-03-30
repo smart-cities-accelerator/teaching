@@ -24,7 +24,7 @@ Hur påverkas människokroppens temperatur av att det är hög temperatur i rumm
 
 Vid användning av låda. Ställ lådan på golvet på ett sådant sätt att lådan har väggar och tak. Skär ut längs två kanter på en kortsida så att den uppkomna luckan kan fällas upp och man  kan krypa in i lådan, och fälla ner luckan och stänga.
 
-
+![](figures/cardboardbox.png)
 
 #### Experiment
 
