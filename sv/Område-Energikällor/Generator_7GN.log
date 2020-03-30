@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.14)  30 MAR 2020 11:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.14)  30 MAR 2020 11:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -920,41 +920,41 @@ e
 <figures/vevgen.jpg, id=8, 3035.34pt x 4047.12pt>
 File: figures/vevgen.jpg Graphic file (type jpg)
 <use figures/vevgen.jpg>
-Package pdftex.def Info: figures/vevgen.jpg  used on input line 114.
+Package pdftex.def Info: figures/vevgen.jpg  used on input line 113.
 (pdftex.def)             Requested size: 398.3133pt x 531.0844pt.
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 119.
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 118.
 
 (/usr/share/texmf/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for TS1+lmtt on input line 123
+LaTeX Font Info:    Try loading font information for TS1+lmtt on input line 122
 .
 (/usr/share/texmf/tex/latex/lm/ts1lmtt.fd
 File: ts1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-Overfull \hbox (53.1601pt too wide) in paragraph at lines 123--123
+Overfull \hbox (53.1601pt too wide) in paragraph at lines 122--122
 []\TS1/lmtt/m/n/10 ˆ \T1/lmtt/m/n/10 Veva generatorn runt med olika varvtal (rp
 m) och undersök vilken effekt som erhålls.[] 
  []
 
 
-Overfull \hbox (383.90913pt too wide) in paragraph at lines 123--123
+Overfull \hbox (383.90913pt too wide) in paragraph at lines 122--122
 []\TS1/lmtt/m/n/10 ˆ \T1/lmtt/m/n/10 Variera resistansen från stor (ingen belas
 tning, väldigt liten effekt) till liten (stor belastning, relativt större effek
 t). Vilken effekt erhålls?[] 
  []
 
 
-Overfull \hbox (205.40965pt too wide) in paragraph at lines 139--139
+Overfull \hbox (205.40965pt too wide) in paragraph at lines 138--138
 []\TS1/lmtt/m/n/10 ˆ \T1/lmtt/m/n/10 Hur känns det att veva vid stor (liten res
 istans) respektive liten (stor resistans) belastning? Varför är det så?[] 
  []
 
 
-Overfull \hbox (47.91011pt too wide) in paragraph at lines 139--139
+Overfull \hbox (47.91011pt too wide) in paragraph at lines 138--138
 []\TS1/lmtt/m/n/10 ˆ \T1/lmtt/m/n/10 Måste en generator rotera fort, varv per m
 inut, för att ge mycket elektrisk energi?[] 
  []
@@ -964,7 +964,7 @@ inut, för att ge mycket elektrisk energi?[]
 File: ../../website/figures_pdf/climate-KIC-header.jpg Graphic file (type jpg)
 <use ../../website/figures_pdf/climate-KIC-header.jpg>
 Package pdftex.def Info: ../../website/figures_pdf/climate-KIC-header.jpg  used
- on input line 139.
+ on input line 138.
 (pdftex.def)             Requested size: 398.3406pt x 62.80502pt.
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -977,7 +977,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 File: ../../website/figures_pdf/climate-KIC-footer.jpg Graphic file (type jpg)
 <use ../../website/figures_pdf/climate-KIC-footer.jpg>
 Package pdftex.def Info: ../../website/figures_pdf/climate-KIC-footer.jpg  used
- on input line 139.
+ on input line 138.
 (pdftex.def)             Requested size: 398.3406pt x 67.18677pt.
 
 Package Fancyhdr Warning: \footskip is too small (30.0pt): 
@@ -987,50 +987,50 @@ Package Fancyhdr Warning: \footskip is too small (30.0pt):
 
 [2 <../../website/figures_pdf/climate-KIC-header.jpg> <./figures/vevgen.jpg> <.
 ./../website/figures_pdf/climate-KIC-footer.jpg>]
-Overfull \hbox (163.40977pt too wide) in paragraph at lines 139--139
+Overfull \hbox (163.40977pt too wide) in paragraph at lines 138--138
 []\TS1/lmtt/m/n/10 ˆ \T1/lmtt/m/n/10 Energi kan varken skapas eller förintas. V
 arifrån kommer den elektriska energin som generatorn levererar?[] 
  []
 
 
-Overfull \hbox (226.40959pt too wide) in paragraph at lines 139--139
+Overfull \hbox (226.40959pt too wide) in paragraph at lines 138--138
 []\TS1/lmtt/m/n/10 ˆ \T1/lmtt/m/n/10 I ett vindkraftverk driver vinden generato
 rn. Måste ett vindkraftverk snurra fort för att ge mycket elektrisk energi?[] 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 142.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 141.
 File: ../../website/figures_pdf/climate-KIC-header.jpg Graphic file (type jpg)
 <use ../../website/figures_pdf/climate-KIC-header.jpg>
 Package pdftex.def Info: ../../website/figures_pdf/climate-KIC-header.jpg  used
- on input line 142.
+ on input line 141.
 (pdftex.def)             Requested size: 398.3406pt x 62.80502pt.
 File: ../../website/figures_pdf/climate-KIC-footer.jpg Graphic file (type jpg)
 <use ../../website/figures_pdf/climate-KIC-footer.jpg>
 Package pdftex.def Info: ../../website/figures_pdf/climate-KIC-footer.jpg  used
- on input line 142.
+ on input line 141.
 (pdftex.def)             Requested size: 398.3406pt x 67.18677pt.
 [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 142.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 141.
 (./Generator_7GN.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 142.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 142.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 141.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 141.
 Package rerunfilecheck Info: File `Generator_7GN.out' has not changed.
-(rerunfilecheck)             Checksum: 488A0BD932DA00B48D28C383A875A676;233.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 142.
+(rerunfilecheck)             Checksum: AC19C69D76FC028C6C1A8A87B9AB3876;89.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 141.
  ) 
 Here is how much of TeX's memory you used:
  12292 strings out of 492982
- 176558 string characters out of 6134895
- 276127 words of memory out of 5000000
+ 176504 string characters out of 6134895
+ 276099 words of memory out of 5000000
  15713 multiletter control sequences out of 15000+600000
  17620 words of font info for 27 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 40i,13n,43p,282b,459s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 40i,13n,43p,238b,459s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dv
 ips/lm/lm-ts1.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx10.pfb></usr/shar
 e/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm
 /lmr17.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb>
-Output written on Generator_7GN.pdf (3 pages, 3479123 bytes).
+Output written on Generator_7GN.pdf (3 pages, 3478200 bytes).
 PDF statistics:
  58 PDF objects out of 1000 (max. 8388607)
  45 compressed objects within 1 object stream
