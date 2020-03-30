@@ -1,0 +1,36 @@
+---
+title: "Samverkan"
+output: html_document
+---
+
+### Samverkan för energi
+
+
+#### Frågeställningar
+
+Hur kan alla energislag samverka?
+
+
+#### Materiel
+
+Ett vattenkraftverk, ett vindkraftverk, en solcell (ett laddningsbart batteri, en vevgenerator).
+3 parallellkopplade lysdioder.
+
+#### Experiment
+
+    • Starta vattenkraftverket, vindkraftverket och solcellen och låt alla 3 lysdioderna lysa. Koppla bort dem en och en och se lysdioderna lysa svagare och svagare. Koppla bort dem i följande ordning: Koppla först bort vattenkraftverket, sedan vindkraftverket och sist solcellen.
+
+    • (Vilken roll spelar det laddningsbara batteriet? Varför finns den med; vilket problem ska den lösa?)
+
+
+
+
+
+
+#### Uppföljning
+
+    • Vilka variationer uppkommer i energiförsörjningen på grund av årstids- och dygnsvariationer?
+
+    • Moderna tvättmaskiner kan startas med hjälp av en klocka. ”Bekvämt, då kan jag starta den när jag inte är hemma” kanske man tänker. Vad är egentligen fördelen för energisystemet att man kan starta en tvättmaskin med hjälp av en klocka?
+
+    • Hur ska man få alla kraftverken att samverka och människorna att sprida sin energianvändning?
