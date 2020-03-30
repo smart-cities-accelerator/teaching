@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 
-<html>
+<html xmlns="http://www.w3.org/1999/xhtml">
 
 <head>
 
 <meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
-<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -84,6 +84,7 @@ code {
 }
 img {
   max-width:100%;
+  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -145,7 +146,6 @@ summary {
   border: none;
   display: inline-block;
   border-radius: 4px;
-  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -157,6 +157,18 @@ summary {
   display: none;
 }
 </style>
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
 
 <!-- code folding -->
 
@@ -187,14 +199,53 @@ summary {
 <hr />
 <div id="section" class="section level1 tabset tabset-fade">
 <h1></h1>
-<div id="energiförluster" class="section level2 tabset tabset-fade">
+<div id="inomhusklimat" class="section level2 tabset tabset-fade">
+<h2>Inomhusklimat</h2>
+<div id="eleven-i-kammaren" class="section level3">
+<h3>Eleven i kammaren</h3>
+<div style="text-align: right">
+<span style="font-size:small;">(links: <a href="Område-Inomhusklimat/Kropp_Kammare_temp_9GN.pdf">pdf</a>)</span>
+</div>
+<div id="fragestallning" class="section level4">
+<h4>Frågeställning</h4>
+<p>Hur tror du att temperaturen i ett rum påverkas av att det finns människor i rummet? Hur påverkas människans temperatur av att det är hög temperatur i rummet?</p>
+</div>
+<div id="materiel" class="section level4">
+<h4>Materiel</h4>
+<p>1 kammare på ungefär 1 kubikmeter: stor låda, bås, toalett eller städskrubb. 1 digital termometer som mäter temperaturen i kammaren. T.ex. kan en digital termometer för inne- och utetemperatur användas. 1 termometer för kroppsbruk(kontakt), eller termometer som inte kräver kroppskontakt. Med IR-kamera mäts temperaturen vid ögonkanten mot näsan.</p>
+<p>Vid användning av låda. Ställ lådan på golvet på ett sådant sätt att lådan har väggar och tak. Skär ut längs två kanter på en kortsida så att den uppkomna luckan kan fällas upp och man kan krypa in i lådan, och fälla ner luckan och stänga.</p>
+<p><img src="Omr%C3%A5de-Inomhusklimat/figures/cardboardbox.png" /></p>
+<p><img src="Omr%C3%A5de-Inomhusklimat/figures/bodycool4.png" /></p>
+</div>
+<div id="experiment" class="section level4">
+<h4>Experiment</h4>
+<p>I stället för att direkt mäta i ett klassrum med elever mäter vi i ett litet rum, en kammare, och med endast en människa. Försök sedan dra slutsatser om vad som händer i ett helt klassrum med elever.</p>
+<pre><code>• Avläs temperaturen i kammaren. Mät personens temperatur.
+
+• Låt en person sätta sig inne i kammaren. Studera temperaturökningen i kammaren; sitt inte så länge att luften känns obehaglig. Anteckna temperaturökning och tid som personen varit i kammaren. Mät personens temperatur.
+
+• Vädra ut kammaren så temperaturen sjunker tillbaka till rumstemperaturen. Väggarna måste också få lite tid på sig.
+
+• Upprepa laborationen igen, men låt personen, samma som tidigare, hoppa hopprep, göra armhävningar eller springa upp och ner i en trappa innan personen placerar sig i kammaren igen. Mät som tidigare.</code></pre>
+<p>Uppföljning</p>
+<pre><code>• Vilken temperatur (cirka) har din kropp? Vid vila och vid ansträngning (t.ex. hopprep)? (IR-kameran kanske inte ger korrekt temperatur men den mäter ändringar korrekt.)
+
+• Varifrån kommer energin som ökar temperaturen i luften i lådan? Vad hade hänt med temperaturen om du placerat ett värmeljus i lådan i stället för din kropp? Vad förbränner lågan, vad förbränner din kropp??
+
+• Vad händer med temperaturen i ett rum med volymen 200 kubikmeter fyllt med 30 människor (ett vanligt klassrum)?
+
+• Hur kan din kropp hålla sin temperatur konstant fastän temperaturen hos luften i klimatkammaren inte är konstant? Se figur.</code></pre>
+</div>
+</div>
+</div>
+<div id="energiforluster" class="section level2 tabset tabset-fade">
 <h2>Energiförluster</h2>
 <div id="luften-flyttar-energi" class="section level3">
 <h3>Luften flyttar energi</h3>
 <div style="text-align: right">
 <span style="font-size:small;">(links: <a href="Område-Energiförluster/Konvektion_GN_elever.pdf">pdf</a>)</span>
 </div>
-<div id="frågeställningar" class="section level4">
+<div id="fragestallningar" class="section level4">
 <h4>Frågeställningar</h4>
 <p>elever</p>
 </div>
@@ -204,20 +255,20 @@ summary {
 <div style="text-align: right">
 <span style="font-size:small;">(links: <a href="Område-Energiförluster/Ledning_GN_elever.pdf">pdf</a>)</span>
 </div>
-<div id="frågeställningar-1" class="section level4">
+<div id="fragestallningar-1" class="section level4">
 <h4>Frågeställningar</h4>
 <p>elever</p>
 </div>
 </div>
 </div>
-<div id="energikällor" class="section level2 tabset tabset-fade">
+<div id="energikallor" class="section level2 tabset tabset-fade">
 <h2>Energikällor</h2>
 <div id="solceller" class="section level3">
 <h3>﻿Solceller</h3>
 <div style="text-align: right">
 <span style="font-size:small;">(links: <a href="Område-Energikällor/Solceller_GN_elever.pdf">pdf</a>)</span>
 </div>
-<div id="frågeställning" class="section level4">
+<div id="fragestallning-1" class="section level4">
 <h4>Frågeställning</h4>
 <p>Vilka faktorer styr effekten som kan erhållas från en solcell?</p>
 </div>
@@ -232,7 +283,7 @@ summary {
 </ul>
 <p>Alega har solceller som ger 2 V och 0,5 A. 11,5x8,2 cm. 87,50 kr. De har också plastspeglar 10x8 cm för 30 kr.</p>
 </div>
-<div id="experiment" class="section level4">
+<div id="experiment-1" class="section level4">
 <h4>Experiment</h4>
 <p>Rikta en solcell mot solen, använd gärna ett stativ eller hållare.</p>
 <ol style="list-style-type: decimal">
@@ -241,7 +292,7 @@ summary {
 <li><p>Även om solcellen är direkt riktad mot solen så blir effekten från solen mindre ju lägre solen står: Varför är det så? Jordens atmosfär är överdriven i bilden.</p></li>
 </ol>
 </div>
-<div id="uppföljning" class="section level4">
+<div id="uppfoljning" class="section level4">
 <h4>Uppföljning</h4>
 <ul>
 <li><p>Vilka faktorer är viktiga vid användning av solceller för att få största möjliga effekt? Mängden ljus, vinkeln mot solen, mängden absorption i atmosfären. Att solcellens yta är ren. Jämn belysning.</p></li>
@@ -273,23 +324,6 @@ $(document).ready(function () {
 
 
 </script>
-
-<!-- tabsets -->
-
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
-
-<!-- code folding -->
-
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
