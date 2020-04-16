@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 
-<html>
+<html xmlns="http://www.w3.org/1999/xhtml">
 
 <head>
 
 <meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
-<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -84,6 +84,7 @@ code {
 }
 img {
   max-width:100%;
+  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -145,7 +146,6 @@ summary {
   border: none;
   display: inline-block;
   border-radius: 4px;
-  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -157,6 +157,18 @@ summary {
   display: none;
 }
 </style>
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
 
 <!-- code folding -->
 
@@ -187,14 +199,14 @@ summary {
 <hr />
 <div id="section" class="section level1 tabset tabset-fade">
 <h1></h1>
-<div id="energiförluster" class="section level2 tabset tabset-fade">
+<div id="energiforluster" class="section level2 tabset tabset-fade">
 <h2>Energiförluster</h2>
 <div id="luften-flyttar-energi" class="section level3">
 <h3>Luften flyttar energi</h3>
 <div style="text-align: right">
 <span style="font-size:small;">(links: <a href="Område-Energiförluster/Konvektion_GN_laerare.pdf">pdf</a> and <a href="students_GN.html#luften-flyttar-energi">students</a>)</span>
 </div>
-<div id="frågeställningar" class="section level4">
+<div id="fragestallningar" class="section level4">
 <h4>Frågeställningar</h4>
 <p>Hur flyttas energi med hjälp av luft?</p>
 </div>
@@ -213,16 +225,16 @@ summary {
 <li><p>Placera t.ex. fransat silkespapper i mitten av ringen en bit ovanför ljusen och observera vad som händer. Se upp det är varmt!</p></li>
 </ol>
 </div>
-<div id="uppföljning." class="section level4">
+<div id="uppfoljning." class="section level4">
 <h4>Uppföljning.</h4>
 <ul>
 <li><p>Hur tolkar du förändringen hos värmeljusen?</p></li>
 <li><p>Vad händer med det fransade silkespapperet? Hur tolkar du det?</p></li>
 </ul>
 </div>
-<div id="resultatet-bör-se-ut-som-på-bilden-nedan." class="section level4">
+<div id="resultatet-bor-se-ut-som-pa-bilden-nedan." class="section level4">
 <h4>Resultatet bör se ut som på bilden nedan.</h4>
-<p><img src="Omr%C3%A5de-Energif%C3%B6rluster/figures/test.jpeg" /></p>
+<p><img src="Område-Energiförluster/figures/test.jpeg" /></p>
 <p>Lågorna är riktade in mot mitten av cirkeln. Detta orsakas av att luften strömmar på grund av upphettningen. Silkespapperet kommer att fladdra pga luftströmmen.</p>
 </div>
 </div>
@@ -231,7 +243,7 @@ summary {
 <div style="text-align: right">
 <span style="font-size:small;">(links: <a href="Område-Energiförluster/Ledning_GN_laerare.pdf">pdf</a> and <a href="students_GN.html#energin-leds-bort">students</a>)</span>
 </div>
-<div id="frågeställningar-1" class="section level4">
+<div id="fragestallningar-1" class="section level4">
 <h4>Frågeställningar</h4>
 <p>Hur bra är olika material på att leda värme.</p>
 </div>
@@ -254,7 +266,7 @@ summary {
 <li><p>Titta på eller ta foto av uppställningen så temperaturen på de olika föremålen kan bestämmas. Det räcker med att avgöra ordningen mellan dem avseende temperatur, noggrann mätning behövs ej. Du kan också känna på föremålen.</p></li>
 </ol>
 </div>
-<div id="uppföljning" class="section level4">
+<div id="uppfoljning" class="section level4">
 <h4>Uppföljning</h4>
 <ul>
 <li><p>Vilken ordning har de testade materialen i fråga om värmeledning?</p></li>
@@ -269,46 +281,45 @@ summary {
 </div>
 </div>
 </div>
-<div id="energikällor" class="section level2 tabset tabset-fade">
+<div id="energikallor" class="section level2 tabset tabset-fade">
 <h2>Energikällor</h2>
 <div id="solceller" class="section level3">
-<h3>﻿Solceller</h3>
+<h3>Solceller</h3>
 <div style="text-align: right">
-<span style="font-size:small;">(links: <a href="Område-Energikällor/Solceller_GN_laerare.pdf">pdf</a> and <a href="students_GN.html#﻿solceller">students</a>)</span>
+<span style="font-size:small;">(links: <a href="Område-Energikällor/Solceller_GN_lärare.pdf">pdf</a> and <a href="students_GN.html#solceller">students</a>)</span>
 </div>
-<div id="frågeställning" class="section level4">
+<div id="fragestallning" class="section level4">
 <h4>Frågeställning</h4>
 <p>Vilka faktorer styr effekten som kan erhållas från en solcell?</p>
 </div>
 <div id="material-1" class="section level4">
 <h4>Material</h4>
-<ul>
-<li><p>En solcell större än 1 kvadratdecimeter.</p></li>
-<li><p>Ställning som kan hålla solcellen fast i olika vinklar. Enklast om solcellen kan roteras kring en axel.</p></li>
-<li><p>Voltmeter, amperemeter eller wattmeter.</p></li>
-<li><p>Tjockt svart papper. Helt ogenomskinligt.</p></li>
-<li><p>En liten tavla att redogöra för resultat på.</p></li>
-</ul>
-<p>Alega har solceller som ger 2 V och 0,5 A. 11,5x8,2 cm. 87,50 kr. De har också plastspeglar 10x8 cm för 30 kr.</p>
+<p>En solcell större än 1 kvadratdecimeter. Ställning som kan hålla solcellen fast i olika vinklar. Enklast om solcellen kan roteras kring en axel. Voltmeter, amperemeter eller wattmeter. Tjockt svart papper. <em>Helt ogenomskinligt.</em> En liten tavla att redogöra för resultat på.</p>
+<p><em>Alega har solceller som ger 2 V och 0,5 A. 11,5</em>8,2 cm. 87,50 kr. De har också plastspeglar 10<em>8 cm för 30 kr.</em></p>
 </div>
 <div id="experiment-2" class="section level4">
 <h4>Experiment</h4>
 <p>Rikta en solcell mot solen, använd gärna ett stativ eller hållare.</p>
-<ol style="list-style-type: decimal">
-<li><p>Mät spänning och ström från solcellen, eller effekt. Ändra solcellens vinkel i förhållande till solen; vad blir det för effekt beroende på vinkel? Konstruera en graf som illustration. Resultatet betyder mycket för hur solceller kan användas.</p></li>
-<li><p>Använd ett tjockt svart papper för att täcka solcellen i olika omfattning. Börja med att täcka en liten andel (ange i procent) och täck mer och mer. Hur beror effekten på hur stor andel som är täckt? Rita en graf för att illustrera. Resultatet betyder mycket för hur solceller ska skötas.</p></li>
-<li><p>Även om solcellen är direkt riktad mot solen så blir effekten från solen mindre ju lägre solen står: Varför är det så? Jordens atmosfär är överdriven i bilden.</p></li>
-</ol>
+<pre><code>1. Mät spänning och ström från solcellen, eller effekt. Ändra solcellens vinkel i förhållande till solen; vad blir det för effekt beroende på vinkel? Konstruera en graf som illustration. Resultatet betyder mycket för hur solceller kan användas.
+
+
+2. Använd ett tjockt svart papper för att täcka solcellen i olika omfattning. Börja med att täcka en liten andel (ange i procent) och täck mer och mer. Hur beror effekten på hur stor andel som är täckt? Rita en graf för att illustrera. Resultatet betyder mycket för hur solceller ska skötas.
+
+
+
+
+3. Även om solcellen är direkt riktad mot solen så blir effekten från solen mindre ju lägre solen står: Varför är det så? Jordens atmosfär är överdriven i bilden.</code></pre>
 </div>
-<div id="uppföljning-1" class="section level4">
+<div id="uppfoljning-1" class="section level4">
 <h4>Uppföljning</h4>
-<ul>
-<li><p>Vilka faktorer är viktiga vid användning av solceller för att få största möjliga effekt? Mängden ljus, vinkeln mot solen, mängden absorption i atmosfären. Att solcellens yta är ren. Jämn belysning.</p></li>
-<li><p>Varför ska en solcell helst se svart ut? Att den ser svart ut innebär att den absorberat allt ljus(i det synliga området).</p></li>
-<li><p>Hur kan man få ännu mer solljus på solcellen utan att göra själva solcellen större? Genom att reflektera solljus från omgivningen. Dock finns det ett maximum så effektivast är det vid låg belysning. Även om man reflekterar ljus till solcellen så är det viktigt att den blir jämnt belyst, svagaste flödet bestämmer strömmen.</p></li>
-<li><p>Angående första experimentet med solcell. Var på Jorden är det bäst? Hur högt stiger solen som högst under vintern i Sverige? Vilken årstid är det i Sverige på bilden? Rita läget för Jorden ett halvår senare. Vad innebär norra och södra vändkretsarna för solceller; de ligger cirka 23,5 grader norr respektive söder om ekvatorn?</p></li>
-</ul>
-<p>I Sverige är det sommar, på södra halvklotet vinter. Solen stiger vid Malmös Latitud ca 10 grader över horisonten. Se även dette <a href="https://www.smhi.se/kunskapsbanken/meteorologi/vad-ar-ett-solbanediagram-1.31981">link</a>.</p>
+<pre><code>• Vilka faktorer är viktiga vid användning av solceller för att få största möjliga effekt?</code></pre>
+<p><em>Mängden ljus, vinkeln mot solen, mängden absorption i atmosfären. Att solcellens yta är ren. Jämn belysning.</em></p>
+<pre><code>• Varför ska en solcell helst se svart ut? *Att den ser svart ut innebär att den absorberat allt ljus(i det synliga området).*
+
+• Hur kan man få ännu mer solljus på solcellen utan att göra själva solcellen större? *Genom att reflektera solljus från omgivningen. Dock finns det ett maximum så effektivast är det vid låg belysning. Även om man reflekterar ljus till solcellen så är det viktigt att den blir jämnt belyst, svagaste flödet bestämmer strömmen.*
+
+• Angående första experimentet med solcell. Var på Jorden är det bäst? Hur högt stiger solen som högst under vintern i Sverige? Vilken årstid är det i Sverige på bilden? Rita läget för Jorden ett halvår senare. Vad innebär norra och södra vändkretsarna för solceller; de ligger cirka 23,5 grader norr respektive söder om ekvatorn?</code></pre>
+<p><em>I Sverige är det sommar, på södra halvklotet vinter. Solen stiger vid Malmös Latitud ca 10 grader över horisonten. Se även <a href="https://www.smhi.se/kunskapsbanken/meteorologi/vad-ar-ett-solbanediagram-1.31981" class="uri">https://www.smhi.se/kunskapsbanken/meteorologi/vad-ar-ett-solbanediagram-1.31981</a> </em></p>
 </div>
 </div>
 </div>
@@ -332,23 +343,6 @@ $(document).ready(function () {
 
 
 </script>
-
-<!-- tabsets -->
-
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
-
-<!-- code folding -->
-
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
