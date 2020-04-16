@@ -17,3 +17,10 @@ output: html_document
 - [Lärarinstruktion](teachers_GN.html)
 
 - [Elevinstruktion](students_GN.html)
+
+
+##  Energibussen
+
+- [Lärarinstruktion](teachers_Buss.html)
+
+- [Elevinstruktion](students_Buss.html)
