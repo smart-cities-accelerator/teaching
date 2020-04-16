@@ -4,6 +4,7 @@ output: html_document
 ---
 
 # Läromaterial {.tabset .tabset-fade}
+#### Material för årskurs 7 till 9 kan användas för gymnasiet.
 
 ## Årskurs 7 till 9
 
