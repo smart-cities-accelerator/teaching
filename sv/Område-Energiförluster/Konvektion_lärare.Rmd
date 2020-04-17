@@ -38,8 +38,8 @@ Fransat silkespapper eller liknande för att detektera luftström.
 
 
 
-Resultatet bör se ut som på bilden nedan.
+*Resultatet bör se ut som på bilden nedan.*
 
 
 
-Lågorna är riktade in mot mitten av cirkeln. Detta orsakas av att luften strömmar på grund av upphettningen. Silkespapperet kommer att fladdra pga luftströmmen.
+*Lågorna är riktade in mot mitten av cirkeln. Detta orsakas av att luften strömmar på grund av upphettningen. Silkespapperet kommer att fladdra pga luftströmmen.*
