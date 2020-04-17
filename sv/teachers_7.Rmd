@@ -32,4 +32,4 @@ Detta material är en följd av övningar och är indelat i olika områden. Omr�
 
 
 `r knitr::knit_child('Område-Energiförluster/Konvektion_lärare.Rmd')`
-`r knitr::knit_child('Område-Energiförluster/Ledning_7_laerare.md')`
+`r knitr::knit_child('Område-Energiförluster/Ledning_lärare.Rmd')`
