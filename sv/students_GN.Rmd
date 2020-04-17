@@ -19,12 +19,14 @@ Detta material är en följd av övningar och är indelat i olika områden. Omr�
 `r knitr::knit_child('Område-Inomhusklimat/Kropp_Kammare_temp_9GN.Rmd')`
 
 
+## Energikällor {.tabset .tabset-fade}
+
+`r knitr::knit_child('Område-Energikällor/Solceller_GN_elever.md')`
+
+
 ## Energiförluster {.tabset .tabset-fade}
 
 `r knitr::knit_child('Område-Energiförluster/Konvektion_GN_elever.md')`
 `r knitr::knit_child('Område-Energiförluster/Ledning_GN_elever.md')`
 
 
-## Energikällor {.tabset .tabset-fade}
-
-`r knitr::knit_child('Område-Energikällor/Solceller_GN_elever.md')`

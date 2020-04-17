@@ -18,12 +18,6 @@ Detta material är en följd av övningar och är indelat i olika områden. Omr�
 `r knitr::knit_child('Område-Inomhusklimat/CO2_klassrum_9GN.Rmd')`
 
 
-## Energiförluster {.tabset .tabset-fade}
-
-
-`r knitr::knit_child('Område-Energiförluster/Konvektion_7GN.Rmd')`
-`r knitr::knit_child('Område-Energiförluster/Ledning_7_elever.md')`
-`r knitr::knit_child('Område-Energiförluster/Strålning_9.Rmd')`
 
 ## Energikällor {.tabset .tabset-fade}
 
@@ -31,6 +25,14 @@ Detta material är en följd av övningar och är indelat i olika områden. Omr�
 `r knitr::knit_child('Område-Energikällor/Generator_7GN.Rmd')`
 `r knitr::knit_child('Område-Energikällor/Vindkraftverk_7GN.Rmd')`
 
+
+
+## Energiförluster {.tabset .tabset-fade}
+
+
+`r knitr::knit_child('Område-Energiförluster/Konvektion_7GN.Rmd')`
+`r knitr::knit_child('Område-Energiförluster/Ledning_7_elever.md')`
+`r knitr::knit_child('Område-Energiförluster/Strålning_9.Rmd')`
 
 
 ## Energieffektivisering {.tabset .tabset-fade}
