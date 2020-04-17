@@ -30,4 +30,6 @@ Detta material är en följd av övningar och är indelat i olika områden. Omr�
 
 `r knitr::knit_child('Område-Energikällor/Solceller_GN_lärare.Rmd')`
 `r knitr::knit_child('Område-Energikällor/Generator_lärare.Rmd')`
+`r knitr::knit_child('Område-Energikällor/Vindkraftverk_lärare.Rmd')`
+
 

@@ -1,0 +1,65 @@
+---
+title: "Untitled"
+output: html_document
+---
+
+
+### Vindkraftverk
+
+
+#### Frågeställningar
+
+Vilka faktorer avgör vilken energi som kan omvandlas med hjälp av ett vindkraftverk?
+
+
+#### Materiel
+
+Ett vindkraftverk av enkel konstruktion. Vingar är utbytbara och vinkeln kan regleras.
+*Ett enkelt vindkraftverk kan byggas med delar från slöjd och hobby företag, t.ex. Panduro. Elektrisk motor från…?*
+
+#### Experiment
+
+Flera olika konstellationer av vindkraftverk kan användas. Antalet vingar kan varieras, t.ex. 2 eller 6. Vingarnas längd kan variera, korta respektive långa vingar. Även vingarnas vinkel mot vinden kan varieras.
+Vinden kan varieras genom att det på vissa fläktar finns olika rotationshastigheter på fläkten. Vinden kan också varieras genom att avståndet till fläkten varieras.
+Observera att det är vanligt att fläktar har en platta i mitten precis framför fläktens rotationsaxel, den måste plockas bort.
+
+
+    • Vindstyrka. Mät spänningen från vindkraftverket beroende på avståndet från fläkten. Detta simulerar olika vindstyrkor. När fungerar detta vindkraftverk bäst?
+
+    • För vilken vinkel på bladen fungerar den bäst? Vinklarna behöver inte mätas noga utan kan begränsas till mellan(45º), blad nästan parallella med vinden(10-20º) och blad nästan tvärställda(70-80º).
+
+    • För hur många blad fungerar vindkraftverket bäst? Undersök 2 eller 6 blad. Bladen måste sitta symmetriskt. 
+
+    • Vi undersöker inte korta blad mot långa blad eftersom det förutsätter att vinden blåser jämnt över bladen om de ska kunna jämföras. För det behöver man ofta speciella fläktar. 
+
+    • Naturligtvis kan långa blad fungera bäst vid en viss vinkel och en viss vindhastighet medan vid en annan vinkel fungerar de bättre vid en annan vindhastighet. O.s.v. 
+Kombinationerna är många.
+
+    • Vart tar luften i vinden vägen? Före vindkraftverket rör sig luften fort, den har mycket rörelseenergi. Säg att all rörelseenergi kunde överföras till vingarna då skulle luften stå stilla efter vingarna, och den inkommande luften skulle då ’krocka’ med luften som står stilla (den efter vingarna). Räknar man på detta visar det sig att endast maximalt 60% kan överföras till vingarna. 
+Vart tar luften i vinden vägen efter den passerat vingarna? Känn efter med handen för att se om det är någon skillnad på var det blåser före och efter vindkraftverket.
+*Vinden går åt sidorna. Om man håller handen framför vindkraftverket men sidan om vingarna och för handen från nära fläkten till precis efter vingarna på vindkraftverket så känner man efter vindkraftverket att det blåser mer på handen. Handen ska föras längs en linje utanför själva luftströmmen från fläkten till bakom(och sidan om) vindkraftverket.*
+
+    • Hitta på fler saker att undersöka.
+
+
+
+#### Uppföljning
+
+
+Kan du ge argument för att det är problem med ytterligheterna?
+
+    • Varför är tvärställda blad dåligt?; varför är blad parallella med vinden dåligt? *I det andra fallet släpps vinden förbi utan att kunna utöva en kraft, åt sidan, på vingarna. I det första fallet genereras inte någon sidkraft som kan rotera vingarna kring generatoraxeln.*
+
+    • Varför är få blad dåligt?; varför är många blad dåligt? (lika breda blad) *Få blad innebär att mycket luft passerar förbi utan att växelverka med vingarna. Många blad innebär att luften saktas ner och mycket turbulens skapas.*
+
+    • Varför kan väldigt höga vindstyrkor vara ett problem? *Vingarna kan gå sönder, de kan också rotera för fort för konstruktionen i generatorn.*
+
+    • Kommer inte att fråga om varför låga vindstyrkor är ett problem.
+
+    • Vindkraftverk roterar i regel med samma fart oavsett hur det blåser. Hur lyckas man det? Olika utväxlingsmekanismer. *Finns flera olika tekniska lösningar. Se också laborationen om generator för att inse att det viktiga är inte hur fort vingarna roterar.*
+
+    • Hur uppkommer vindar? *Olika temperaturer gör att luft börjar röra på sig. Vindar är konvektion.*
+
+
+
+*Vindkraftverk är ofta konstruerade för att ge maximal effekt vid cirka 15 m/s. Vingarnas hastighet kan regleras genom att bladen vrids så att de vänder olika stora ytor mot vinden. En annan metod, för fixa blad, är att de är designade så att vid tillräckligt höga hastigheter skapar vingarna turbulens.*
