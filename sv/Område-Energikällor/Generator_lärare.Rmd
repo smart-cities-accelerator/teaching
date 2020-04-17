@@ -3,7 +3,7 @@ title: "Untitled"
 output: html_document
 ---
 
-### Veva fram elektrisk energi-Generator
+### Generator
 
 
 #### Frågeställningar
