@@ -3,15 +3,15 @@ title: "Energin leds bort"
 output: html_document
 ---
 
-Energin leds bort
+### Energin leds bort
 
 
-Frågeställningar
+#### Frågeställningar
 
 Hur bra är olika material på att leda värme.
 
 
-Materiel
+#### Materiel
 
 En skål. Hett vatten. En träsked, en metallsked och en plastsked. Kanske något av glas eller valfritt. 
 En IR-kamera.
@@ -23,7 +23,7 @@ Föremålen som man ska mäta på med IR-kameran ska ha en tejpbit som är svart
 
 
 
-Experiment
+#### Experiment
 
     • Placera skedarna i en skål, låt dem luta mot kanten.
 
@@ -39,7 +39,7 @@ Experiment
 
 
 
-Uppföljning
+#### Uppföljning
 
     • Vilken ordning har de testade materialen i fråga om värmeledning?
 
