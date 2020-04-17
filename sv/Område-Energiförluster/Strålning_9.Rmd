@@ -8,7 +8,7 @@ output:
 ### Energin strålar bort
 
 ![](figures/Termografia_katt.jpg)
-Termografia_katt.jpg
+
 
 
 ![](figures/irhome.jpg)
