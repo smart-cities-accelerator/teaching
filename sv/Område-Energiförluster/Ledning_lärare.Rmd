@@ -51,32 +51,11 @@ Föremålen som man ska mäta på med IR-kameran ska ha en tejpbit som är svart
 
 
 
+*I denna figur syns problematiken med emissiviteten. För silverkniven, längst till vänster, verkar det som att temperaturen är lägre längre ner mot det heta vattnet och högre temperatur överst på den svarta tejpen. För träkniven, nummer två i raden, har däremot en högre temperatur närmare det heta vattnet.*
 
+*Observera också att kameran ändrar skalan.*
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-I denna figur syns problematiken med emissiviteten. För silverkniven, längst till vänster, verkar det som att temperaturen är lägre längre ner mot det heta vattnet och högre temperatur överst på den svarta tejpen. För träkniven, nummer två i raden, har däremot en högre temperatur närmare det heta vattnet.
-
-Observera också att kameran ändrar skalan.
-
-Bilden nedan visar de fyra föremålen på en bänk. Områden med ’hög temperatur’ på silver och metallskeden är reflektioner från taklampor, inte en högre temperatur.
+*Bilden nedan visar de fyra föremålen på en bänk. Områden med ’hög temperatur’ på silver och metallskeden är reflektioner från taklampor, inte en högre temperatur.*
 
 
 
