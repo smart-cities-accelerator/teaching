@@ -17,6 +17,7 @@ Detta material är en följd av övningar och är indelat i olika områden. Omr�
 `r knitr::knit_child('Område-Inomhusklimat/Kropp_Kammare_CO2_9GN.Rmd')`
 `r knitr::knit_child('Område-Inomhusklimat/CO2_klassrum_9GN.Rmd')`
 
+
 ## Energikällor {.tabset .tabset-fade}
 
 
