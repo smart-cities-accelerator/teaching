@@ -14,8 +14,9 @@ Detta material är en följd av övningar och är indelat i olika områden. Omr�
 
 ## Inomhusklimat {.tabset .tabset-fade}
 
+`r knitr::knit_child('Område-Inomhusklimat/Kropp_Kammare_temp_lärare.Rmd')`
 `r knitr::knit_child('Område-Inomhusklimat/Kropp_Kammare_CO2_lärare.Rmd')`
-
+`r knitr::knit_child('Område-Inomhusklimat/CO2_klassrum_lärare.Rmd')`
 
 ## Energiförluster {.tabset .tabset-fade}
 
