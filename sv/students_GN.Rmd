@@ -16,7 +16,6 @@ Detta material är en följd av övningar och är indelat i olika områden. Omr�
 
 ## Inomhusklimat {.tabset .tabset-fade}
 
-`r knitr::knit_child('Område-Inomhusklimat/Kropp_Kammare_temp_9GN.Rmd')`
 
 
 ## Energikällor {.tabset .tabset-fade}
