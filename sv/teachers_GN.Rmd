@@ -12,13 +12,4 @@ Detta material är en följd av övningar och är indelat i olika områden. Omr�
 
 # {.tabset .tabset-fade}
 
-## Energiförluster {.tabset .tabset-fade}
-
-`r knitr::knit_child('Område-Energiförluster/Konvektion_GN_laerare.md')`
-`r knitr::knit_child('Område-Energiförluster/Ledning_GN_laerare.md')`
-
-
-## Energikällor {.tabset .tabset-fade}
-
-`r knitr::knit_child('Område-Energikällor/Solceller_GN_lärare.Rmd')`
 
