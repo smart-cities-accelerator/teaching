@@ -1,0 +1,59 @@
+---
+title: "Untitled"
+output: html_document
+---
+
+
+### Hur varmt är det hemma?
+
+
+#### Frågeställningar
+
+Vilket hus kräver minst energi för att upphettas?
+
+
+#### Materiel
+
+Några modeller av hus. Energibussen har kuber tillverkade av olika material. De upphettas med hjälp av en glödlampa och temperaturen mäts med en digital termometer kopplad till mätprogram. Linjal för bestämning av husens begränsningsarea.
+
+
+#### Experiment
+
+    • Koppla in termometrar i de hus du vill mäta i.
+
+    • Kontrollera att termometrarna visar samma temperatur, så utgångsläget är ungefär lika.
+
+    • Ställ era hypoteser om vilket hus som kommer att upphettas snabbast. Varför tror ni det?
+
+    • Tänd glödlamporna i alla husen samtidigt.
+
+    • Anteckna temperaturändringarna.
+
+    • Låt temperaturerna stiga en stund.
+
+    • Under tiden temperaturen stiger: Ställ era hypoteser om vilket hus som kommer att svalna snabbast.
+
+    • Uppskatta de olika husens jämvikts/maximala temperaturer.
+
+    • Stäng av alla glödlampor samtidigt och låt husen svalna.
+
+    • Vilket hus svalnar snabbast? Hur bestämmer man det?
+*Detta kan vålla problem. Snabbast definieras som störst lutning i grafen vid en given temperatur. Lutningen måste tas för samma temperatur för varje hus! Förslag som brukar förekomma är: den som snabbast blir lägst, den som avtar snabbast då man precis stängt av glödlamporna (de har då olika temperaturer så de kan inte jämföras).*
+
+    • Om du är bekant med formeln, som gäller vid jämvikt, så använd den för att beräkna de olika materialens U-värde. P är lampans effekt. A är kubens begränsningsarea.  är skillnaden mellan kubens jämviktstemperatur/max och omgivningens temperatur.
+
+    • Variationer och hypoteser:
+
+        ◦ Om en fläkt blåser på husen vad händer då? Vad simulerar detta?
+        ◦ Om det finns en stor sten eller en bägare med vatten i huset vad händer då?
+        ◦ …
+
+#### Uppföljningsfrågor
+
+    • Vilka var era hypoteser och stämde de? Varför? Varför inte?
+
+    • Vissa saker är lika i husens konstruktion (volymen t.ex.), andra saker i konstruktionen är olika (väggmaterial t.ex.). Varför är det så? Vad bör vara lika respektive olika?
+
+*Kan vara besvärligt. Volymen är konstant så samma mängd luft ska värmas. Väggarna är lika tjocka så det i en enkel mening är lika lång transportväg för energin. För U-värdet måste begränsningsarean vara lika. U-värdet (tidigare K-värde) är inte för ett visst material utan för en viss konstruktion men samma area. Arean bör dessutom vara plan, inte vinklade sammansatta som i detta fall. Massorna är inte lika. Om mer massa ska upphettas tar det inte längre tid då? Det är inte heller samma antal atomer/molekyler. Om fler atomer/molekyler ska upphettas med samma energimängd kan det inte bli lägre temperatur då? Borde inte väggarna ha samma massa eller lika antal atomer/molekyler? Skillnaden mellan värmeledning(värmekonduktivitet), värmeövergång(gränsyta) och värmelagring(värmekapacitivitet) kan vara intressant (och förvirrande). Se t.ex. Mats Areskougs bok ’Miljöfysik’ kap 16 (även i andra kapitel). För att isolera ett hus finns det ofta ytterligare restriktioner rent praktiskt*
+
+    • På internet finns tabeller med olika U-värden. Säljare av fönsterglas anger ofta U-värde. Vanligt är också att man anger värmekonduktivitet.
