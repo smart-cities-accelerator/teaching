@@ -2,8 +2,8 @@ This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**Solceller_7_elever.tex
-(./Solceller_7_elever.tex
+**Solceller_GN_lÃ¤rare.tex
+(./Solceller_GN_lÃ¤rare.tex
 LaTeX2e <2017-04-15>
 Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -749,13 +749,13 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip47
 )
-Package hyperref Info: Option `unicode' set `true' on input line 28.
+Package hyperref Info: Option `unicode' set `true' on input line 29.
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2018/02/06 v6.86b Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
-Package hyperref Info: Option `breaklinks' set `true' on input line 28.
+Package hyperref Info: Option `breaklinks' set `true' on input line 29.
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
@@ -796,36 +796,36 @@ s
 \f@nch@O@erf=\skip57
 \f@nch@O@olf=\skip58
 \f@nch@O@orf=\skip59
-) (./Solceller_7_elever.aux)
-\openout1 = `Solceller_7_elever.aux'.
+) (./Solceller_GN_lÃ¤rare.aux)
+\openout1 = `Solceller_GN_lÃ¤rare.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 91.
-LaTeX Font Info:    ... okay on input line 91.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 91.
-LaTeX Font Info:    ... okay on input line 91.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 91.
-LaTeX Font Info:    ... okay on input line 91.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 91.
-LaTeX Font Info:    ... okay on input line 91.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 91.
-LaTeX Font Info:    ... okay on input line 91.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 91.
-LaTeX Font Info:    ... okay on input line 91.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 91.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 91.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 92.
+LaTeX Font Info:    ... okay on input line 92.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 92.
+LaTeX Font Info:    ... okay on input line 92.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 92.
+LaTeX Font Info:    ... okay on input line 92.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 92.
+LaTeX Font Info:    ... okay on input line 92.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 92.
+LaTeX Font Info:    ... okay on input line 92.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 92.
+LaTeX Font Info:    ... okay on input line 92.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 92.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 92.
 (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 91.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 91.
-LaTeX Font Info:    ... okay on input line 91.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 91.
-LaTeX Font Info:    ... okay on input line 91.
-LaTeX Font Info:    Try loading font information for T1+lmr on input line 91.
+LaTeX Font Info:    ... okay on input line 92.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 92.
+LaTeX Font Info:    ... okay on input line 92.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 92.
+LaTeX Font Info:    ... okay on input line 92.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 92.
 (/usr/share/texmf/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Info: Redefining \microtypecontext on input line 91.
+LaTeX Info: Redefining \microtypecontext on input line 92.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using protrusion set `basicmath'.
@@ -874,7 +874,7 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \AtBeginShipoutBox=\box28
-Package hyperref Info: Link coloring OFF on input line 91.
+Package hyperref Info: Link coloring OFF on input line 92.
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
@@ -882,12 +882,12 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count114
 )
-LaTeX Info: Redefining \ref on input line 91.
-LaTeX Info: Redefining \pageref on input line 91.
-LaTeX Info: Redefining \nameref on input line 91.
-(./Solceller_7_elever.out) (./Solceller_7_elever.out)
+LaTeX Info: Redefining \ref on input line 92.
+LaTeX Info: Redefining \pageref on input line 92.
+LaTeX Info: Redefining \nameref on input line 92.
+(./Solceller_GN_lÃ¤rare.out) (./Solceller_GN_lÃ¤rare.out)
 \@outlinefile=\write3
-\openout3 = `Solceller_7_elever.out'.
+\openout3 = `Solceller_GN_lÃ¤rare.out'.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -921,7 +921,7 @@ e
 File: figures/solar-cells-in-the-sun-2v2.jpg Graphic file (type jpg)
 <use figures/solar-cells-in-the-sun-2v2.jpg>
 Package pdftex.def Info: figures/solar-cells-in-the-sun-2v2.jpg  used on input 
-line 96.
+line 98.
 (pdftex.def)             Requested size: 160.68726pt x 107.20512pt.
 <figures/v3solar-pyramid-spin-solar-cell-cost-of-electricity-1v4.jpg, id=9, 401
 .5pt x 247.92625pt>
@@ -929,19 +929,124 @@ File: figures/v3solar-pyramid-spin-solar-cell-cost-of-electricity-1v4.jpg Graph
 ic file (type jpg)
 <use figures/v3solar-pyramid-spin-solar-cell-cost-of-electricity-1v4.jpg>
 Package pdftex.def Info: figures/v3solar-pyramid-spin-solar-cell-cost-of-electr
-icity-1v4.jpg  used on input line 98.
+icity-1v4.jpg  used on input line 99.
 (pdftex.def)             Requested size: 398.36842pt x 245.9925pt.
-LaTeX Font Info:    Try loading font information for TS1+lmr on input line 110.
 
-(/usr/share/texmf/tex/latex/lm/ts1lmr.fd
-File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+Overfull \hbox (162.9393pt too wide) in paragraph at lines 98--100
+[] [] 
+ []
+
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 122.
+
+(/usr/share/texmf/tex/latex/lm/t1lmtt.fd
+File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-<../../website/figures_pdf/climate-KIC-header.jpg, id=10, 994.54129pt x 156.806
+Overfull \hbox (882.65768pt too wide) in paragraph at lines 132--132
+[]\T1/lmtt/m/n/10 1. Mät spänning och ström från solcellen, eller effekt. Ändra
+ solcellens vinkel i förhållande till solen; vad blir det för effekt beroende p
+å vinkel? Konstruera en graf som illustration. Resultatet betyder mycket för hu
+r solceller kan användas.[] 
+ []
+
+
+Overfull \hbox (1129.40697pt too wide) in paragraph at lines 132--132
+[]\T1/lmtt/m/n/10 2. Använd ett tjockt svart papper för att täcka solcellen i o
+lika omfattning. Börja med att täcka en liten andel (ange i procent) och täck m
+er och mer. Hur beror effekten på hur stor andel som är täckt? Rita en graf för
+ att illustrera. Resultatet betyder mycket för hur solceller ska skötas.[] 
+ []
+
+
+Overfull \hbox (452.15894pt too wide) in paragraph at lines 132--132
+[]\T1/lmtt/m/n/10 3. Även om solcellen är direkt riktad mot solen så blir effek
+ten från solen mindre ju lägre solen står: Varför är det så? Jordens atmosfär ä
+r överdriven i bilden.[] 
+ []
+
+LaTeX Font Info:    Try loading font information for TS1+lmtt on input line 139
+.
+(/usr/share/texmf/tex/latex/lm/ts1lmtt.fd
+File: ts1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+Overfull \hbox (74.16003pt too wide) in paragraph at lines 139--139
+[]\TS1/lmtt/m/n/10 ˆ \T1/lmtt/m/n/10 Vilka faktorer är viktiga vid användning a
+v solceller för att få största möjliga effekt?[] 
+ []
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./figures/solar-cells-in-t
+he-sun-2v2.jpg> <./figures/v3solar-pyramid-spin-solar-cell-cost-of-electricity-
+1v4.jpg>]
+Overfull \hbox (263.15948pt too wide) in paragraph at lines 150--150
+[]\TS1/lmtt/m/n/10 ˆ \T1/lmtt/m/n/10 Varför ska en solcell helst se svart ut? *
+Att den ser svart ut innebär att den absorberat allt ljus(i det synliga området
+).*[] 
+ []
+
+
+Overfull \hbox (1318.40642pt too wide) in paragraph at lines 150--150
+[]\TS1/lmtt/m/n/10 ˆ \T1/lmtt/m/n/10 Hur kan man få ännu mer solljus på solcell
+en utan att göra själva solcellen större? *Genom att reflektera solljus från om
+givningen. Dock finns det ett maximum så effektivast är det vid låg belysning. 
+Även om man reflekterar ljus till solcellen så är det viktigt att den blir jämn
+t belyst, svagaste flödet bestämmer strömmen.*[] 
+ []
+
+
+Overfull \hbox (1334.15637pt too wide) in paragraph at lines 150--150
+[]\TS1/lmtt/m/n/10 ˆ \T1/lmtt/m/n/10 Angående första experimentet med solcell. 
+Var på Jorden är det bäst? Hur högt stiger solen som högst under vintern i Sver
+ige? Vilken årstid är det i Sverige på bilden? Rita läget för Jorden ett halvår
+ senare. Vad innebär norra och södra vändkretsarna för solceller; de ligger cir
+ka 23,5 grader norr respektive söder om ekvatorn?[] 
+ []
+
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 155.
+
+(/usr/share/texmf/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 155.
+
+(/usr/share/texmf/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 155
+.
+(/usr/share/texmf/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 155
+.
+(/usr/share/texmf/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 155.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 155.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 155.
+LaTeX Font Info:    Try loading font information for U+msa on input line 155.
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+) (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 155.
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 158.
+<../../website/figures_pdf/climate-KIC-header.jpg, id=29, 994.54129pt x 156.806
 02pt>
 File: ../../website/figures_pdf/climate-KIC-header.jpg Graphic file (type jpg)
 <use ../../website/figures_pdf/climate-KIC-header.jpg>
 Package pdftex.def Info: ../../website/figures_pdf/climate-KIC-header.jpg  used
- on input line 138.
+ on input line 158.
 (pdftex.def)             Requested size: 398.3406pt x 62.80502pt.
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -949,12 +1054,12 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-<../../website/figures_pdf/climate-KIC-footer.jpg, id=11, 994.54129pt x 167.745
+<../../website/figures_pdf/climate-KIC-footer.jpg, id=30, 994.54129pt x 167.745
 96pt>
 File: ../../website/figures_pdf/climate-KIC-footer.jpg Graphic file (type jpg)
 <use ../../website/figures_pdf/climate-KIC-footer.jpg>
 Package pdftex.def Info: ../../website/figures_pdf/climate-KIC-footer.jpg  used
- on input line 138.
+ on input line 158.
 (pdftex.def)             Requested size: 398.3406pt x 67.18677pt.
 
 Package Fancyhdr Warning: \footskip is too small (30.0pt): 
@@ -962,47 +1067,33 @@ Package Fancyhdr Warning: \footskip is too small (30.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[1
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <../../website/figures_pdf/
-climate-KIC-header.jpg> <./figures/solar-cells-in-the-sun-2v2.jpg> <./figures/v
-3solar-pyramid-spin-solar-cell-cost-of-electricity-1v4.jpg> <../../website/figu
-res_pdf/climate-KIC-footer.jpg>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 179.
-File: ../../website/figures_pdf/climate-KIC-header.jpg Graphic file (type jpg)
-<use ../../website/figures_pdf/climate-KIC-header.jpg>
-Package pdftex.def Info: ../../website/figures_pdf/climate-KIC-header.jpg  used
- on input line 179.
-(pdftex.def)             Requested size: 398.3406pt x 62.80502pt.
-File: ../../website/figures_pdf/climate-KIC-footer.jpg Graphic file (type jpg)
-<use ../../website/figures_pdf/climate-KIC-footer.jpg>
-Package pdftex.def Info: ../../website/figures_pdf/climate-KIC-footer.jpg  used
- on input line 179.
-(pdftex.def)             Requested size: 398.3406pt x 67.18677pt.
-[2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 179.
-(./Solceller_7_elever.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 179.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 179.
-Package rerunfilecheck Info: File `Solceller_7_elever.out' has not changed.
+[2 <../../website/figures_pdf/climate-KIC-header.jpg> <../../website/figures_pd
+f/climate-KIC-footer.jpg>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 158.
+(./Solceller_GN_lÃ¤rare.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 158.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 158.
+Package rerunfilecheck Info: File `Solceller_GN_lÃ¤rare.out' has not changed.
 (rerunfilecheck)             Checksum: A6490EA8E56B04C05F8CB710AA362DE0;89.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 179.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 158.
  ) 
 Here is how much of TeX's memory you used:
- 12267 strings out of 492982
- 176681 string characters out of 6134895
- 278171 words of memory out of 5000000
- 15674 multiletter control sequences out of 15000+600000
- 15010 words of font info for 33 fonts, out of 8000000 for 9000
+ 12442 strings out of 492982
+ 180041 string characters out of 6134895
+ 278167 words of memory out of 5000000
+ 15807 multiletter control sequences out of 15000+600000
+ 34611 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 40i,13n,43p,243b,411s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 42i,13n,43p,377b,460s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ts1.enc}{/usr/share/texmf/fonts/enc/d
 vips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx10.pfb></usr/shar
-e/texmf/fonts/type1/public/lm/lmr10.pfb>
-Output written on Solceller_7_elever.pdf (2 pages, 568886 bytes).
+e/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm
+/lmr17.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf
+/fonts/type1/public/lm/lmtt10.pfb>
+Output written on Solceller_GN_lÃ¤rare.pdf (2 pages, 635018 bytes).
 PDF statistics:
- 54 PDF objects out of 1000 (max. 8388607)
- 43 compressed objects within 1 object stream
- 16 named destinations out of 1000 (max. 500000)
- 4125 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 64 PDF objects out of 1000 (max. 8388607)
+ 50 compressed objects within 1 object stream
+ 13 named destinations out of 1000 (max. 500000)
+ 8221 words of extra memory for PDF output out of 10000 (max. 10000000)
 
