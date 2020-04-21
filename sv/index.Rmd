@@ -4,7 +4,7 @@ output: html_document
 ---
 
 # Läromaterial {.tabset .tabset-fade}
-#### Material för årskurs 7 till 9 kan användas för gymnasiet.
+#### Allt material ligger på 7-9 och Energibussen. Fördelningen av material mellan 7-9 och gymnasiet kommer justeras senare.
 
 ## Årskurs 7 till 9
 
