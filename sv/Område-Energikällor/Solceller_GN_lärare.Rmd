@@ -13,9 +13,6 @@ output:
 ![](figures/v3solar-pyramid-spin-solar-cell-cost-of-electricity-1v4.jpg)
 
 
-<img src="figures/v3solar-pyramid-spin-solar-cell-cost-of-electricity-1v4.jpg" width="200">
-
-<img src="figures/v3solar-pyramid-spin-solar-cell-cost-of-electricity-1v4.jpg" width="200"/>
 
 
 #### Frågeställning
