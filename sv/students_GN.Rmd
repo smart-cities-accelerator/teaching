@@ -12,11 +12,3 @@ Detta material är en följd av övningar och är indelat i olika områden. Omr�
 
 # {.tabset .tabset-fade}
 
-
-
-## Energiförluster {.tabset .tabset-fade}
-
-`r knitr::knit_child('Område-Energiförluster/Konvektion_GN_elever.md')`
-`r knitr::knit_child('Område-Energiförluster/Ledning_GN_elever.md')`
-
-
