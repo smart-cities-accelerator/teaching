@@ -18,6 +18,8 @@ Hur tror du att koldioxidhalten i ett rum påverkas av att det finns människor 
 Utrustning för mätning av koldioxidhalt kontinuerligt.
 En lykta med stearinljus eller en fotogenlampa. Hantlar.
 
+![](figures/Carbon_dioxide_3D_ball.png)
+
 
 
 #### Experiment
