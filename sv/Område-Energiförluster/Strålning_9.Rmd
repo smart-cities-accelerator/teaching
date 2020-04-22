@@ -43,8 +43,6 @@ output:
 
      6. Från en järnbit med temperaturen  1300 °C kommer så mycket UV-strålning att vi måste skydda våra ögon med UV-skydd. Från solen som är  6000 °C borde det komma mycket stora mängder UV-strålning. Trots det kan vi se ett kort ögonblick på solen utan att ögonen blir förstörda, hur kan det vara så?
 
-![](figures/EM_spectrumrevised.png)
-
 
 
 
@@ -59,6 +57,7 @@ Alla föremål avger således elektromagnetisk strålning oavsett temperatur. Un
 Med hjälp av en IR-kamera kan vi detektera den infraröda strålningen från föremål i vår omgivning. Eftersom även osynlig infraröd ’färg’, beror på temperaturen kan vi bestämma föremålets temperatur genom att observera ’IR-färgen’ med hjälp av IR-kameran.
 
 
+![](figures/EM_spectrumrevised.png)
 
 
 
