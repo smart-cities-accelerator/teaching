@@ -5,6 +5,9 @@ output: html_document
 
 ### Energin strålar bort
 
+![](figures/Termografia_katt.jpg)
+
+![](figures/irhome.jpg)
 
 
 #### Experiment med IR-kamera
