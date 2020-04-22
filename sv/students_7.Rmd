@@ -15,6 +15,8 @@ Detta material är en följd av övningar och är indelat i olika områden. Omr�
 ## Inomhusklimat {.tabset .tabset-fade}
 
 `r knitr::knit_child('Område-Inomhusklimat/Kropp_Kammare_temp_78.Rmd')`
+`r knitr::knit_child('Område-Inomhusklimat/Infoppm_elev.Rmd')`
+
 
 
 
