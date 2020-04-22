@@ -53,6 +53,12 @@ Alla föremål avger således elektromagnetisk strålning oavsett temperatur. Un
 
 Med hjälp av en IR-kamera kan vi detektera den infraröda strålningen från föremål i vår omgivning. Eftersom även osynlig infraröd ’färg’, beror på temperaturen kan vi bestämma föremålets temperatur genom att observera ’IR-färgen’ med hjälp av IR-kameran.
 
+
+![](figures/EM_spectrumrevised.png)
+
+
+
+
 #### Kamerans funktion
 
 Eftersom vi inte kan se ’IR-färgerna’ ändrar IR-kameran dem till för oss synliga färger, en slags kod. I regel väljer kameran ljusare färger (ljusröd-gul-vit) för högre temperaturer och mörkare färger (mörkblå-svart) för lägre. 

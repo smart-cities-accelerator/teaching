@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.14)  17 APR 2020 20:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.14)  22 APR 2020 19:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -917,64 +917,80 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 101.
+<figures/Termografia_katt.jpg, id=8, 401.5pt x 301.125pt>
+File: figures/Termografia_katt.jpg Graphic file (type jpg)
+<use figures/Termografia_katt.jpg>
+Package pdftex.def Info: figures/Termografia_katt.jpg  used on input line 98.
+(pdftex.def)             Requested size: 398.36842pt x 298.7763pt.
+<figures/irhome.jpg, id=9, 401.5pt x 232.87pt>
+File: figures/irhome.jpg Graphic file (type jpg)
+<use figures/irhome.jpg>
+Package pdftex.def Info: figures/irhome.jpg  used on input line 100.
+(pdftex.def)             Requested size: 398.36842pt x 231.05367pt.
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 105.
 
 (/usr/share/texmf/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-Overfull \hbox (914.1576pt too wide) in paragraph at lines 103--103
+Overfull \hbox (914.1576pt too wide) in paragraph at lines 107--107
 [] \T1/lmtt/m/n/10 1. En kopp med kallt vatten och en med varmt vatten ser lika
  ut för våra ögon men hur ser IR-kameran dem? Vilken kopp avger mest energi i f
 orm av strålning? Ljusa färger (vit-gul) är hög temperatur och mörka färger (mö
 rkblå-svart) är låg temperatur.[] 
  []
 
+[1
 
-Overfull \hbox (242.15955pt too wide) in paragraph at lines 119--119
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./figures/Termografia_katt
+.jpg> <./figures/irhome.jpg>]
+Overfull \hbox (242.15955pt too wide) in paragraph at lines 123--123
 [] \T1/lmtt/m/n/10 2. Undersök om följande föremål är *genomskinliga* (kan du s
 e koppen med varmt vatten genom materialet) för IR-strålning:[] 
  []
 
 
-Overfull \hbox (100.40996pt too wide) in paragraph at lines 119--119
+Overfull \hbox (100.40996pt too wide) in paragraph at lines 123--123
 []     \T1/lmtt/m/n/10 e) Svart sopsäck. (Stoppa in din arm, kan man räkna fing
 rarna?) *Plasten är genomskinlig.*[] 
  []
 
 
-Overfull \hbox (436.40898pt too wide) in paragraph at lines 119--119
+Overfull \hbox (436.40898pt too wide) in paragraph at lines 123--123
 []     \T1/lmtt/m/n/10 f) Solskydd för bilfönster. *T.ex. Biltema har plast för
  både uv och IR. Ej genomskinlig? (kan vara delvis genomskinlig, anges ofta i n
 ågon procentsats).*[] 
  []
 
 
-Overfull \hbox (693.65823pt too wide) in paragraph at lines 135--135
+Overfull \hbox (693.65823pt too wide) in paragraph at lines 139--139
 [] \T1/lmtt/m/n/10 3. Om man tittar på en människokropp med hjälp av en IR-kame
 ra kan man se hur temperaturen varierar. Sjukdomar kan detekteras med en IR-kam
 era. Var har du högst respektive lägst temperatur på din kropps hud?[] 
  []
 
 
-Overfull \hbox (273.65945pt too wide) in paragraph at lines 135--135
+Overfull \hbox (273.65945pt too wide) in paragraph at lines 139--139
 [] \T1/lmtt/m/n/10 4. Om du har en mobiltelefon undersök om den kan detektera l
 juset från en fjärrkontroll (IR-diod) med hjälp av mobilens kamera.[] 
  []
 
-LaTeX Font Info:    Try loading font information for TS1+lmr on input line 141.
+LaTeX Font Info:    Try loading font information for TS1+lmr on input line 145.
 
 (/usr/share/texmf/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-) [1
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 217.
-<../../website/figures_pdf/climate-KIC-header.jpg, id=25, 994.54129pt x 156.806
+)
+<figures/EM_spectrumrevised.png, id=22, 2007.5pt x 1074.0125pt>
+File: figures/EM_spectrumrevised.png Graphic file (type png)
+<use figures/EM_spectrumrevised.png>
+Package pdftex.def Info: figures/EM_spectrumrevised.png  used on input line 167
+.
+(pdftex.def)             Requested size: 398.3378pt x 213.11072pt.
+<../../website/figures_pdf/climate-KIC-header.jpg, id=23, 994.54129pt x 156.806
 02pt>
 File: ../../website/figures_pdf/climate-KIC-header.jpg Graphic file (type jpg)
 <use ../../website/figures_pdf/climate-KIC-header.jpg>
 Package pdftex.def Info: ../../website/figures_pdf/climate-KIC-header.jpg  used
- on input line 217.
+ on input line 170.
 (pdftex.def)             Requested size: 398.3406pt x 62.80502pt.
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -982,12 +998,12 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-<../../website/figures_pdf/climate-KIC-footer.jpg, id=26, 994.54129pt x 167.745
+<../../website/figures_pdf/climate-KIC-footer.jpg, id=24, 994.54129pt x 167.745
 96pt>
 File: ../../website/figures_pdf/climate-KIC-footer.jpg Graphic file (type jpg)
 <use ../../website/figures_pdf/climate-KIC-footer.jpg>
 Package pdftex.def Info: ../../website/figures_pdf/climate-KIC-footer.jpg  used
- on input line 217.
+ on input line 170.
 (pdftex.def)             Requested size: 398.3406pt x 67.18677pt.
 
 Package Fancyhdr Warning: \footskip is too small (30.0pt): 
@@ -997,31 +1013,54 @@ Package Fancyhdr Warning: \footskip is too small (30.0pt):
 
 [2 <../../website/figures_pdf/climate-KIC-header.jpg> <../../website/figures_pd
 f/climate-KIC-footer.jpg>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 217.
+File: ../../website/figures_pdf/climate-KIC-header.jpg Graphic file (type jpg)
+<use ../../website/figures_pdf/climate-KIC-header.jpg>
+Package pdftex.def Info: ../../website/figures_pdf/climate-KIC-header.jpg  used
+ on input line 220.
+(pdftex.def)             Requested size: 398.3406pt x 62.80502pt.
+File: ../../website/figures_pdf/climate-KIC-footer.jpg Graphic file (type jpg)
+<use ../../website/figures_pdf/climate-KIC-footer.jpg>
+Package pdftex.def Info: ../../website/figures_pdf/climate-KIC-footer.jpg  used
+ on input line 220.
+(pdftex.def)             Requested size: 398.3406pt x 67.18677pt.
+[3 <./figures/EM_spectrumrevised.png>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 223.
+File: ../../website/figures_pdf/climate-KIC-header.jpg Graphic file (type jpg)
+<use ../../website/figures_pdf/climate-KIC-header.jpg>
+Package pdftex.def Info: ../../website/figures_pdf/climate-KIC-header.jpg  used
+ on input line 223.
+(pdftex.def)             Requested size: 398.3406pt x 62.80502pt.
+File: ../../website/figures_pdf/climate-KIC-footer.jpg Graphic file (type jpg)
+<use ../../website/figures_pdf/climate-KIC-footer.jpg>
+Package pdftex.def Info: ../../website/figures_pdf/climate-KIC-footer.jpg  used
+ on input line 223.
+(pdftex.def)             Requested size: 398.3406pt x 67.18677pt.
+[4]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 223.
 (./StrÃ¥lning_lÃ¤rare.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 217.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 217.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 223.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 223.
 Package rerunfilecheck Info: File `StrÃ¥lning_lÃ¤rare.out' has not changed.
 (rerunfilecheck)             Checksum: BB4030DC9FDADEA856911927CE97EE3B;153.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 217.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 223.
  ) 
 Here is how much of TeX's memory you used:
- 12317 strings out of 492982
- 177147 string characters out of 6134895
- 281146 words of memory out of 5000000
- 15706 multiletter control sequences out of 15000+600000
+ 12331 strings out of 492982
+ 177532 string characters out of 6134895
+ 280146 words of memory out of 5000000
+ 15718 multiletter control sequences out of 15000+600000
  23741 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 42i,13n,43p,288b,340s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 43i,14n,48p,288b,340s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ts1.enc}{/usr/share/texmf/fonts/enc/d
 vips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx10.pfb></usr/shar
 e/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm
 /lmr17.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf
 /fonts/type1/public/lm/lmtt10.pfb>
-Output written on StrÃ¥lning_lÃ¤rare.pdf (2 pages, 347596 bytes).
+Output written on StrÃ¥lning_lÃ¤rare.pdf (4 pages, 561933 bytes).
 PDF statistics:
- 57 PDF objects out of 1000 (max. 8388607)
- 45 compressed objects within 1 object stream
- 11 named destinations out of 1000 (max. 500000)
- 6163 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 69 PDF objects out of 1000 (max. 8388607)
+ 52 compressed objects within 1 object stream
+ 13 named destinations out of 1000 (max. 500000)
+ 6178 words of extra memory for PDF output out of 10000 (max. 10000000)
 
