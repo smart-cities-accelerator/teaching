@@ -5,6 +5,9 @@ output: html_document
 
 ### Procent, promille och ppm
 
+
+${\sqrt(2)}$
+
 Procent innebär att man räknar hundra-delar. En hundradel är således en procent. 34 hundradelar är 34 procent, skrivs oftast som 34 %.
 34 % är matematiskt 34/100=0,34. 15% är 15/100=0,15.
 
@@ -16,28 +19,28 @@ ppm är en förkortning för det engelska uttrycket ’parts per million’ vilk
 
 Begreppen används oftast när man vill beräkna andelar av något.
 
-34 % av 135 kronor innebär att man delar in 135 kronor i hundra delar och sedan tar 34 av dessa. Matematiskt skrivs det d.v.s 45,9 kronor. Man kan också tänka. Det är samma sak.
+34 % av 135 kronor innebär att man delar in 135 kronor i hundra delar och sedan tar 34 av dessa. Matematiskt skrivs det ${34 \over 100} \cdot 135=45,9$ d.v.s 45,9 kronor. Man kan också tänka $34 \cdot {135 \over 100}=45,9 $. Det är samma sak.
 
 
-34 ‰  av 135 kronor innebär på liknande sätt , d.v.s. 4,59 kronor. Eller.
+34 ‰  av 135 kronor innebär på liknande sätt ${34 \over 1000} \cdot 135=4,59 $ , d.v.s. 4,59 kronor. Eller $34 \cdot {135 \over 1000}=4,59$.
 
 
-34 ppm av 135 kronor är , d.v.s. 0,00459 kronor. Eller .
+34 ppm av 135 kronor är ${34 \over 1000000} \cdot 135=0,00459 $, d.v.s. 0,00459 kronor. Eller $34 \cdot {135 \over 1000000}=0,00459$.
 
 
-Och 411 ppm är, d.v.s. 0,055485 kronor. Eller .
+Och 411 ppm är${411 \over 1000000} \cdot 135=0,055485 $, d.v.s. 0,055485 kronor. Eller $411 \cdot {135 \over 1000000}=0,055485$.
 
 
 
 I samband med gaser har vi t.ex. 411 ppm av ett visst antal molekyler (man kan välja en mol molekyler t.ex.).
 
-Om vi har 37 000 000 (37 miljoner) molekyler och 4 % av dem är koldioxidmolekyler så finns det  koldioxidmolekyler, d.v.s. en miljon fyrahundraåttiotusen stycken av 37 000 000 molekyler är koldioxidmolekyler.
+Om vi har 37 000 000 (37 miljoner) molekyler och 4 % av dem är koldioxidmolekyler så finns det ${4 \over 100} \cdot 37 000 000=1480000$ koldioxidmolekyler, d.v.s. en miljon fyrahundraåttiotusen stycken av 37 000 000 molekyler är koldioxidmolekyler.
 
 Om vi bara har 4 ‰ koldioxidmolekyler så är det 148 000 stycken av 37 000 000 molekyler som är koldioxidmolekyler.
 
-Och 4 ppm av 37 000 000 är , d.v.s. endast 148 stycken är koldioxidmolekyler. 
+Och 4 ppm av 37 000 000 är $4 \cdot37=148$ , d.v.s. endast 148 stycken är koldioxidmolekyler. 
 
-Om vi har 411 ppm så är det .
+Om vi har 411 ppm så är det ${411 \over 1000000} \cdot 37777777=15207$.
 
 Koldioxidhalten i atmosfären var i början på 2019 411 ppm. Det innebär att 411 miljondelar av antalet molekyler var koldioxidmolekyler. Det kan också uttryckas som att 0,0411% av antalet molekyler var koldioxidmolekyler. Jämförelsevis är 78% kväve och 21% syre.
 Året tidigare var halten koldioxid 408 ppm.
