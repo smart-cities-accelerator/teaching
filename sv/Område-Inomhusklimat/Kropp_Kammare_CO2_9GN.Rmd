@@ -5,6 +5,7 @@ output: html_document
 
 ### En människa i kammaren
 
+![](figures/Carbon_dioxide_3D_ball.png)
 
 #### Frågeställning
 
