@@ -11,6 +11,8 @@ output: html_document
 
 Hur flyttas energi med hjälp av luft?
 
+![](figures/ljus.jpg)
+
 
 #### Material
 
