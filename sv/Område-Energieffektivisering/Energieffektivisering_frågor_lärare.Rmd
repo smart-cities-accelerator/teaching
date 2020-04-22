@@ -1,0 +1,41 @@
+---
+title: "Untitled"
+output: html_document
+---
+
+
+
+### Samverka för att få energi
+
+
+
+#### Frågeställningar
+
+Hur kan man förbättra energihushållningen i redan byggda hus, d.v.s. energisanera dem?
+
+
+
+#### Uppföljning
+
+Utifrån Energibussens experiment kan följande diskuteras:
+
+    • På vilka sätt förlorar ett hus sin energi så det blir kallt i rummen? Vad kan man göra för att hålla temperaturen i ett hus?
+*Detta har behandlats i ledning, konvektion och strålning.*
+
+    • Varför kan inomhusklimatet påverkas negativt av en oförsiktig energisanering?
+*Behandlats i experimenten om koldioxid.*
+
+    • Vad kan man göra för att kombinera olika energikällor? Varför är det viktigt?
+*Experimentet om samverkan.*
+
+    • Vad kan man göra för att sprida människors energianvändning? Varför är det viktigt?
+
+    • Vilken/Vilka process/er producerar koldioxid?
+
+    • För att värma ett hus använder vi ofta förbränning av fossila bränslen. Vad finns det för andra sätt?
+
+    • Vad är ett noll-energihus?
+
+    • Vet du någonstans där man använder samma energi mer än en gång? Ge förslag på fler möjligheter att använda samma energi mer än en gång.
+*Detta är en stor del av den nutida energisaneringen. Läs t.ex. om DH, District Heating och LTDH, Low Temperature District Heating.*
+*Ofta kan värmeenergi från industrin användas för att värma bostäder. T.ex. kan el ha använts i en industri för att driva motorer. Djur i stall kan användas för att upphetta hus. Ishall kopplat till badhus. Värmepumpen flyttar energi från den ena till den andra. I lågenergihus används även de 100 W som en människa avger. I en bil används motorn för att värma kupén. När man ventilerar ett rum används värmeväxlare för att ta hand om värmeenergin i den utgående luften som då upphettar den ingående luften.*

@@ -24,3 +24,4 @@ Detta material är en följd av övningar och är indelat i olika områden. Omr�
 
 `r knitr::knit_child('Område-Energieffektivisering/Samverkan_7GN.Rmd')`
 `r knitr::knit_child('Område-Energieffektivisering/Husmodell_7GN.Rmd')`
+`r knitr::knit_child('Område-Energieffektivisering/Energieffektivisering_frågor.Rmd')`

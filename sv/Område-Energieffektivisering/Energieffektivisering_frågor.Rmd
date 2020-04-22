@@ -1,0 +1,39 @@
+---
+title: "Untitled"
+output: html_document
+---
+
+
+### Samverka för att få energi
+
+
+
+#### Frågeställningar
+
+Hur kan man förbättra energihushållningen i redan byggda hus, d.v.s. energisanera dem?
+
+
+
+#### Uppföljning
+
+Utifrån Energibussens experiment kan följande diskuteras:
+
+    • Ett hus tillförs energi och förlorar energi: 
+        ◦ Varifrån kommer energin? 
+        ◦ och på vilka sätt lämnar den huset?
+
+    • Vad kan man göra för att hålla temperaturen i ett hus?
+
+    • Vad är ”inomhusklimat”?
+
+    • Vad kan man göra för att kombinera olika energikällor? Varför är det viktigt?
+
+    • Vad kan man göra för att sprida människors energianvändning? Varför är det viktigt?
+
+    • Vilken/Vilka process/er producerar koldioxid?
+
+    • 
+
+    • Vad är ett noll-energihus?
+
+    • Vet du någonstans där man använder samma energi mer än en gång? Ge förslag på fler möjligheter att använda samma energi mer än en gång.
