@@ -5,4 +5,4 @@ output: html_document
 
 
 
-Illustrationer af [www.sketchybanana.dk](www.sketchybanana.dk).
+Illustrationer af [www.sketchybanana.dk](https://www.sketchybanana.dk).
