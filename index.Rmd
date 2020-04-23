@@ -17,3 +17,25 @@ output: html_document
 ### [Manual](info/manual.html)
 
 ### [About](info/about.html)
+
+
+---   
+
+23 april 2020
+
+I det dansk/svenske projekt Smart Cities Accelerator har vi arbejdet med bæredygtig energi som et fokusområde. Et af vores temaer har været læring. Vi har blandt andet udviklet og testet undervisningsmaterialer, viden og metoder til brug i undervisningen i de ældste klasser i grundskolen og de yngste klasser i gymnasiet.
+
+Undervisningsmaterialet er frit tilgængeligt for lærere og undervisningsinstitutioner.
+
+
+Undervisningsmaterialet fokuserer på de vigtige samfundsudfordringer vi står over for med grøn omstilling. Materialet danner en helhed, fra fysikkens principper gennem dagligdagen til tanker om den global energisituation, og kan således støtte udviklingen af et sammenhængende helhedsbillede af energi hos eleverne.
+
+
+Lærere kan bruge materialet i helhed eller udvælge dele af eksperimenterne. Underviserne kan også via platformen Github selv arbejde videre med opgaverne.
+
+
+Materialet er stadig under udvikling, og der vil løbende blive tilføjet nye øvelser.
+
+
+Med venlig hilsen
+Malmö Universitet og DTU Compute
