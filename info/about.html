@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 
-<html>
+<html xmlns="http://www.w3.org/1999/xhtml">
 
 <head>
 
 <meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
-<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -84,6 +84,7 @@ code {
 }
 img {
   max-width:100%;
+  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -145,7 +146,6 @@ summary {
   border: none;
   display: inline-block;
   border-radius: 4px;
-  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -157,6 +157,18 @@ summary {
   display: none;
 }
 </style>
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
 
 <!-- code folding -->
 
@@ -183,7 +195,14 @@ summary {
 </div>
 
 
-<p>Illustrationer af <a href="https://www.sketchybanana.dk" class="uri">www.sketchybanana.dk</a>.</p>
+<p>23 april 2020</p>
+<p>I det dansk/svenske projekt Smart Cities Accelerator har vi arbejdet med bæredygtig energi som et fokusområde. Et af vores temaer har været læring. Vi har blandt andet udviklet og testet undervisningsmaterialer, viden og metoder til brug i undervisningen i de ældste klasser i grundskolen og de yngste klasser i gymnasiet.</p>
+<p>Undervisningsmaterialet er frit tilgængeligt for lærere og undervisningsinstitutioner.</p>
+<p>Undervisningsmaterialet fokuserer på de vigtige samfundsudfordringer vi står over for med grøn omstilling. Materialet danner en helhed, fra fysikkens principper gennem dagligdagen til tanker om den global energisituation, og kan således støtte udviklingen af et sammenhængende helhedsbillede af energi hos eleverne.</p>
+<p>Lærere kan bruge materialet i helhed eller udvælge dele af eksperimenterne. Underviserne kan også via platformen Github selv arbejde videre med opgaverne.</p>
+<p>Materialet er stadig under udvikling, og der vil løbende blive tilføjet nye øvelser.</p>
+<p>Med venlig hilsen Malmö Universitet og DTU Compute</p>
+<p>Illustrationer af <a href="https://www.sketchybanana.dk">www.sketchybanana.dk</a>.</p>
 
 <br><br><img src="../website/figures_html/climate-KIC-footer-2.png"> <!-- style="transform:rotate(180deg);"> -->
 
@@ -203,23 +222,6 @@ $(document).ready(function () {
 
 
 </script>
-
-<!-- tabsets -->
-
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
-
-<!-- code folding -->
-
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
